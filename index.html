@@ -1,0 +1,251 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Mal H — experimental post-natural visual archive.">
+  <title>Mal H — Glass Archive</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Instrument+Serif:ital@0;1&family=Noto+Serif+SC:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="system-header">
+    <div class="identity">
+      <span class="status-dot" aria-hidden="true"></span>
+      <span>FULLY-IMMERSIVE-APOCALYPSE</span>
+    </div>
+    <span>MAL H / EXPERIMENTAL ARCHIVE</span>
+    <time id="clock" aria-label="Current time">00:00:00</time>
+    <div class="device-preview" role="group" aria-label="Preview device">
+      <button class="is-active" type="button" data-preview-mode="desktop">DESKTOP</button>
+      <button type="button" data-preview-mode="phone">PHONE</button>
+      <button type="button" data-preview-mode="split">SPLIT</button>
+    </div>
+    <button class="customize-trigger" id="open-customizer" type="button">CUSTOMIZE FILE</button>
+  </header>
+
+  <main>
+    <section class="archive-masthead" id="archive-masthead" data-material="glass" data-shape="notched" aria-label="Master archive information">
+      <div class="masthead-card">
+        <div class="masthead-rail" aria-hidden="true"><i></i><i></i><i></i></div>
+        <p class="masthead-index">MASTER FILE / FIA—00 <span>OPEN ACCESS</span></p>
+        <div class="masthead-titles">
+          <h2 id="masthead-title-en" contenteditable="true" spellcheck="false">FULLY IMMERSIVE<br>APOCALYPSE</h2>
+          <p id="masthead-title-cn" contenteditable="true" spellcheck="false" lang="zh-Hans">全沉浸式末日脚本</p>
+        </div>
+        <nav class="masthead-tabs" aria-label="Archive introduction and contact">
+          <button type="button" data-masthead-panel="intro" aria-expanded="false"><span>INTRO</span><small>01</small></button>
+          <button type="button" data-masthead-panel="contact" aria-expanded="false"><span>CONTACT</span><small>02</small></button>
+        </nav>
+      </div>
+
+      <aside class="masthead-extension" id="masthead-extension" aria-hidden="true">
+        <div class="masthead-extension-inner">
+          <header><span id="masthead-panel-code">INTRO / 01</span><button type="button" id="close-masthead-info" aria-label="Close information panel">×</button></header>
+          <section class="masthead-info-panel" data-info-panel="intro">
+            <p id="masthead-intro" contenteditable="false">These terms and ideas are fragments—drawn from scattered disciplines, biased, partial, and reinterpreted through a subjective lens. Scientific concepts are digested and displaced rather than used with strict accuracy. Some parts are inspired by—or shamelessly stolen from—my closest friend ;) This is neither linear storytelling nor an attempt to construct a coherent worldview, but a loosely assembled emotional landscape.</p>
+          </section>
+          <section class="masthead-info-panel contact-panel" data-info-panel="contact" hidden>
+            <p><span>WORK EMAIL</span><a id="contact-email" href="#" contenteditable="false">ADD EMAIL ADDRESS</a></p>
+            <p><span>INSTAGRAM</span><a id="contact-instagram" href="#" contenteditable="false">ADD INSTAGRAM LINK</a></p>
+            <p><span>WEBSITE</span><a id="contact-website" href="#" contenteditable="false">ADD WEBSITE LINK</a></p>
+          </section>
+          <footer><button type="button" id="edit-masthead-info">EDIT INFO</button><span>LOCAL MASTER RECORD</span></footer>
+        </div>
+      </aside>
+    </section>
+
+    <section class="archive-file" data-file-id="01">
+    <section class="project-intro" aria-labelledby="project-title">
+      <p class="eyebrow">TEST BOARD 01 / ACTIVE RECORD</p>
+      <div class="formula-heading">
+        <h1 id="project-title" contenteditable="true" data-field="main-formula" spellcheck="false">v = fλ</h1>
+        <p class="work-title" contenteditable="true" spellcheck="false">ARTIFICIAL WAVES.</p>
+      </div>
+    </section>
+
+    <section class="document-zone" aria-label="Artificial Waves document">
+      <div class="document-stack" id="document-stack" data-material="glass" data-shape="notched">
+        <div class="back-plate back-plate-two" aria-hidden="true"></div>
+        <div class="back-plate back-plate-one" aria-hidden="true"></div>
+
+        <nav class="folder-tabs" aria-label="Document layers" role="tablist">
+          <button class="folder-tab is-active" type="button" role="tab" aria-selected="true" aria-controls="panel-visuals" data-target="visuals"><span>VISUALS</span><small>01</small></button>
+          <button class="folder-tab" type="button" role="tab" aria-selected="false" aria-controls="panel-story" data-target="story"><span>STORY</span><small>02</small></button>
+        </nav>
+
+        <article class="document-sheet is-active" id="panel-visuals" role="tabpanel" data-panel="visuals">
+          <header class="sheet-header">
+            <span>DOCUMENT A—01</span>
+            <span class="visual-count" id="visual-count">01 MEDIA RECORD</span>
+          </header>
+          <div class="visual-editor-bar">
+            <button type="button" id="edit-visuals" data-action="edit-layout">EDIT LAYOUT</button>
+            <button type="button" id="auto-arrange" data-action="auto-arrange">AUTO ARRANGE</button>
+            <label>ADD IMAGES<input class="visual-upload-inline" id="visual-upload-inline" type="file" accept="image/*" multiple></label>
+            <label class="grid-number">ROW HEIGHT<input data-layout-setting="rowHeight" type="number" min="4" max="120" step="0.1" value="28"></label>
+            <label class="grid-number">GUTTER<input data-layout-setting="gutter" type="number" min="0" max="48" step="0.5" value="4"></label>
+            <span>DRAG TO REORDER / PULL THE LOWER-RIGHT SLOT TO RESIZE</span>
+          </div>
+          <div class="visual-field layout-grid" id="visual-field">
+            <figure class="visual-item" draggable="false" data-record-id="record-01" style="--visual-span: 12">
+              <img src="assets/artificial-waves.jpeg" alt="Pale cyan digital visual from Artificial Waves">
+              <figcaption contenteditable="true" spellcheck="false">FIG. A—01 / PRIMARY FIELD</figcaption>
+              <button class="data-branch" type="button" data-action="data">DATA <small>01</small></button>
+              <div class="item-controls" aria-label="Visual controls">
+                <button type="button" data-action="up" aria-label="Move image up">↑</button>
+                <button type="button" data-action="down" aria-label="Move image down">↓</button>
+                <button type="button" data-action="size" data-span="12">1</button>
+                <button type="button" data-action="size" data-span="6">½</button>
+                <button type="button" data-action="size" data-span="4">⅓</button>
+                <button type="button" data-action="size" data-span="3">¼</button>
+                <button type="button" data-action="remove" aria-label="Remove image">×</button>
+                <span class="span-readout">COL 12</span>
+              </div>
+              <button class="resize-slot" type="button" data-action="resize" aria-label="Drag to resize image"></button>
+            </figure>
+          </div>
+          <footer class="sheet-footer">
+            <span>TRANSMISSION STATE / ACCESSIBLE</span>
+            <span>SELECT SIDE INDEX TO EXPOSE LAYERS</span>
+          </footer>
+        </article>
+
+        <article class="document-sheet" id="panel-story" role="tabpanel" data-panel="story" hidden>
+          <header class="sheet-header">
+            <span>TEXT RECORD A—01</span>
+            <span>EN / 中文</span>
+          </header>
+          <div class="story-editor-bar">
+            <button type="button" id="edit-story" data-action="edit-story">EDIT STORY TEXT</button>
+            <span>ENGLISH / 中文 ARE EDITED INDEPENDENTLY</span>
+          </div>
+          <div class="story-layout">
+            <section lang="en" class="story-record" data-story="english" contenteditable="false">
+              <p class="section-code">ENGLISH TRANSMISSION</p>
+              <p>In the mimetic domain, they drift passively along oscillatory trajectories, functioning as parametric models. Two conventional beams converge at the system’s periphery, provoking an anomalous, metastable standing wave—its frequency erratic, its amplitude misaligned. Time momentarily arrests at the locus of interference: at a low-probability resonance node, his crest and her trough become phase-inverted, instantaneously cancelling each other through destructive interference, resolving, momentarily, into zero amplitude.</p>
+              <p>The moon, coarse as a salt crystal, recedes into the damp night—even though its albedo is only 0.12. Within the fishing-light matrix, micro-deviations spiral unchecked—misread by her as another marine body. The surge breaches overhead before the background parameters, persistently amplified, surface as a necessary fault in the perturbation chain. Tolerance thresholds rupture; signs decouple, variables disintegrate, and the algorithm withdraws from its attempt to resolve the state.</p>
+              <p>Within the shadowed meridian between nautical dusk and dawn, the experimental models survey each other across a shared liminal horizon—engaging in self-preservation routines within data-stream blind spots, continually patching the fractures along the margins of error. In a fleeting moment, the mechanical light of the setting sun etches across the sea’s fault line. He turns and says:</p>
+              <blockquote>“Perhaps, this time, we needn’t part again.”</blockquote>
+            </section>
+            <section lang="zh-Hans" class="chinese-record story-record" data-story="chinese" contenteditable="false">
+              <p class="section-code">中文转录</p>
+              <p>在拟态空间里，他们作为变量模型沿波动轨迹被动漂移；两股常规波束自边界相汇，诱发极罕见的非稳定驻波态，频率漂移，振幅错位；时间在靶心干涉点短暂冻结，在低概率的共振节点上，他的波峰与她的波谷相位互反，瞬时抵消，规整为零。</p>
+              <p>月亮如同一颗粗粝的盐，躲进夜里受潮，她误以为那是另一汪海，渔火通明……直至深海袭至头顶，他们是被扰乱秩序，误差被无限放大的实验参照；实验范围远超预期，符号的变动，因数的更迭都不再具备参考价值。</p>
+              <p>两个实验模型在航海晨昏蒙影线相互瞭望，在海的盲区自救，匆忙地拼凑自己的影子。瞬息间，机械落日的余晖填满海平面的缝隙，他调头过来说：</p>
+              <blockquote>“要不这次，我们别再分开了。”</blockquote>
+            </section>
+          </div>
+          <footer class="sheet-footer"><span>NON-LINEAR EMOTIONAL LANDSCAPE</span><span>TEXT LAYER / 01</span></footer>
+        </article>
+
+      </div>
+    </section>
+
+    </section>
+
+    <div id="additional-files" aria-label="Additional test boards"></div>
+  </main>
+
+  <dialog class="customizer" id="customizer">
+    <form method="dialog" class="customizer-shell">
+      <header>
+        <div><p class="eyebrow">LOCAL DESIGN CONTROL</p><h2>Document material</h2></div>
+        <button class="close-customizer" value="cancel" aria-label="Close customizer">×</button>
+      </header>
+
+      <div class="control-grid">
+        <label>PAGE BACKGROUND<input id="page-color" type="color" value="#dfe9e8"></label>
+        <label>MEMBRANE TINT<input id="sheet-color" type="color" value="#d9eded"></label>
+        <label>TEXT / ENGRAVING COLOR<input id="ink-color" type="color" value="#1e3033"></label>
+        <label>LIGHT COLOR<input id="glow-color" type="color" value="#9debf0"></label>
+        <label>TRANSPARENCY<input id="sheet-opacity" type="range" min="48" max="96" value="78"><output id="opacity-output">78%</output></label>
+        <label>FROST<input id="sheet-frost" type="range" min="0" max="30" value="16"><output id="frost-output">16px</output></label>
+        <label>SCREEN GLOW<input id="glow-strength" type="range" min="0" max="100" value="26"><output id="glow-output">26%</output></label>
+        <label>ENGRAVING DEPTH<input id="engrave-strength" type="range" min="0" max="100" value="44"><output id="engrave-output">44%</output></label>
+        <label>METAL REFLECTION<input id="metal-reflection" type="range" min="0" max="100" value="58"><output id="reflection-output">58%</output></label>
+        <label>MATERIAL<select id="material"><option value="glass">FROSTED GLASS</option><option value="alloy">BRUSHED ALLOY</option><option value="polymer">BIO-POLYMER</option></select></label>
+        <label>EDGE / TAB SHAPE<select id="tab-shape"><option value="notched">MECHANICAL NOTCH</option><option value="curved">CURVED SLOT</option><option value="serrated">SERRATED EDGE</option></select></label>
+        <label>VISUAL LAYOUT<select id="visual-layout"><option value="grid">FLEXIBLE 1—4 COLUMNS</option><option value="single">SINGLE COLUMN</option><option value="stack">LAYERED STACK</option></select></label>
+        <label>FORMULA TITLE SIZE<input id="formula-size" type="range" min="48" max="180" value="124"><output id="formula-size-output">124px</output></label>
+        <label>SMALL TITLE SIZE<input id="title-size" type="range" min="10" max="42" value="17"><output id="title-size-output">17px</output></label>
+        <label>MASTER HEADER WIDTH<input id="masthead-width" type="range" min="24" max="55" value="30"><output id="masthead-width-output">30%</output></label>
+        <label>MASTER HEADER PROPORTION<select id="masthead-ratio"><option value="1.7778">16 : 9</option><option value="2" selected>2 : 1 / SLIM</option><option value="2.5">5 : 2 / EXTRA SLIM</option></select></label>
+        <label>MASTER TITLE SIZE<input id="masthead-title-size" type="range" min="22" max="60" value="38"><output id="masthead-title-size-output">38px</output></label>
+        <label>MOBILE HEADER WIDTH<input id="masthead-mobile-width" type="range" min="55" max="95" value="68"><output id="masthead-mobile-width-output">68%</output></label>
+        <label>MOBILE MASTER TITLE<input id="masthead-mobile-title-size" type="range" min="20" max="44" value="27"><output id="masthead-mobile-title-size-output">27px</output></label>
+        <label>HEADER / CONTENT GAP<input id="masthead-gap" type="range" min="8" max="70" value="24"><output id="masthead-gap-output">24px</output></label>
+        <label>ENGLISH STORY SIZE<input id="story-size" type="range" min="16" max="42" value="18"><output id="story-size-output">18px</output></label>
+        <label>中文 STORY SIZE<input id="story-cn-size" type="range" min="16" max="42" value="18"><output id="story-cn-size-output">18px</output></label>
+        <label>DATA TEXT SIZE<input id="data-size" type="range" min="12" max="26" value="14"><output id="data-size-output">14px</output></label>
+        <label>INTERFACE TEXT SIZE<input id="ui-size" type="range" min="10" max="18" value="11"><output id="ui-size-output">11px</output></label>
+        <label class="upload-control">ADD VISUALS<input id="visual-upload" type="file" accept="image/*" multiple><span>Choose any number of images</span></label>
+      </div>
+
+      <div class="region-controls">
+        <div class="region-control-heading">
+          <div><p class="eyebrow">INDEPENDENT FILE COLOUR</p><h3>Selected region</h3></div>
+          <label>EDIT REGION<select id="region-target"></select></label>
+        </div>
+        <div class="control-grid region-control-grid">
+          <label>SURFACE TINT<input id="region-sheet-color" type="color" value="#d9eded"></label>
+          <label>TEXT / ENGRAVING<input id="region-ink-color" type="color" value="#1e3033"></label>
+          <label>LIGHT COLOR<input id="region-glow-color" type="color" value="#9debf0"></label>
+          <label>BACKDROP START<input id="region-bg-start" type="color" value="#dfe9e8"></label>
+          <label>BACKDROP END<input id="region-bg-end" type="color" value="#d9eded"></label>
+          <label>REGION MATERIAL<select id="region-material"><option value="glass">FROSTED GLASS</option><option value="alloy">BRUSHED ALLOY</option><option value="polymer">BIO-POLYMER</option></select></label>
+          <label>REGION EDGE<select id="region-shape"><option value="notched">MECHANICAL NOTCH</option><option value="curved">CURVED SLOT</option><option value="serrated">SERRATED EDGE</option></select></label>
+          <label>REGION TRANSPARENCY<input id="region-opacity" type="range" min="48" max="96" value="78"><output id="region-opacity-output">78%</output></label>
+          <label>REGION FROST<input id="region-frost" type="range" min="0" max="30" value="16"><output id="region-frost-output">16px</output></label>
+          <label>REGION GLOW<input id="region-glow-strength" type="range" min="0" max="100" value="26"><output id="region-glow-output">26%</output></label>
+          <label>REGION ENGRAVING<input id="region-engrave-strength" type="range" min="0" max="100" value="44"><output id="region-engrave-output">44%</output></label>
+          <label>REGION REFLECTION<input id="region-metal-reflection" type="range" min="0" max="100" value="58"><output id="region-reflection-output">58%</output></label>
+        </div>
+      </div>
+
+      <p class="customizer-note">Global controls set the surrounding archive. Independent File Colour stores a separate surface, text, light and backdrop gradient for every TEST BOARD’s Visuals and Story layer. Uploaded images and edits stay on this device; when the full draft is ready, export one project file and send it together with the original images for permanent publication.</p>
+      <footer>
+        <button type="button" class="secondary-control" id="reset-settings">RESET</button>
+        <label class="secondary-control file-control">IMPORT PROJECT<input id="import-project" type="file" accept="application/json,.json"></label>
+        <label class="secondary-control file-control">RELINK IMAGES<input id="relink-images" type="file" accept="image/*" multiple></label>
+        <button type="button" class="secondary-control" id="copy-settings">EXPORT PROJECT FILE</button>
+        <button class="apply-control" value="default">DONE</button>
+      </footer>
+      <p class="copy-status" id="copy-status" aria-live="polite"></p>
+    </form>
+  </dialog>
+
+  <dialog class="record-dialog" id="record-dialog">
+    <form method="dialog" class="record-shell">
+      <header class="record-header">
+        <div><p class="eyebrow">NESTED IMAGE RECORD</p><h2 id="record-number">DATA / 01</h2></div>
+        <button class="close-customizer" value="cancel" aria-label="Close record">×</button>
+      </header>
+      <div class="record-grid">
+        <div class="record-visual"><img id="record-preview" alt="Selected visual preview"></div>
+        <div class="record-fields">
+          <label class="record-work-title">WORK TITLE / FORMULA TRACE<textarea id="record-title" rows="2"></textarea></label>
+          <label>YEAR<input id="record-year" type="text"></label>
+          <label>MEDIUM<input id="record-medium" type="text"></label>
+          <label>MATERIAL<input id="record-material" type="text"></label>
+          <label>SOFTWARE<input id="record-software" type="text"></label>
+          <label class="record-notes">CATALOGUE NOTES<textarea id="record-notes" rows="5"></textarea></label>
+          <label class="record-upload">ADD REFERENCE IMAGES<input id="record-upload" type="file" accept="image/*" multiple></label>
+          <div class="record-media" id="record-media"></div>
+        </div>
+      </div>
+      <footer class="record-footer"><span>CHANGES ARE SAVED ON THIS DEVICE</span><button class="apply-control" id="save-record" value="default">SAVE / CLOSE</button></footer>
+    </form>
+  </dialog>
+
+  <aside class="phone-preview-dock" id="phone-preview-dock" aria-label="Live phone preview" hidden>
+    <header><span>PHONE PREVIEW / 390 × 844</span><button type="button" id="close-phone-preview" aria-label="Close phone preview">×</button></header>
+    <div class="phone-preview-viewport" id="phone-preview-viewport"></div>
+  </aside>
+
+  <script src="project-data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

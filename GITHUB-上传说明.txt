@@ -1,0 +1,23 @@
+MAL GLASS ARCHIVE — GitHub 发布说明
+
+最简单的方法是使用 GitHub Desktop：
+
+1. 解压 Mal_Glass_Archive_GitHub_Ready.zip。
+2. 安装并登录 GitHub Desktop。
+3. 在 GitHub Desktop 选择 File → Add local repository。
+4. 选择解压后的 Mal_Glass_Archive_GitHub_Ready 文件夹。
+5. 如果显示“This directory does not appear to be a Git repository”，点击 create a repository。
+6. Repository name 填 mal-glass-archive，Git ignore 选 None，点击 Create repository。
+7. 左下角 Summary 填 Initial portfolio website，点击 Commit to main。
+8. 点击 Publish repository；取消勾选 Keep this code private，然后确认 Publish。
+9. 回到 GitHub 网页中的这个仓库，打开 Settings → Pages。
+10. Source 选择 Deploy from a branch；Branch 选择 main；文件夹选择 /(root)，点击 Save。
+
+等待几分钟后，Pages 页面会显示公开网址。
+
+公开网址：正常访客看到的是干净的作品集。
+编辑网址：在公开网址最后加上 ?edit=1，例如：
+https://你的用户名.github.io/mal-glass-archive/?edit=1
+
+编辑后的内容只保存在当前浏览器里，并不会自动改动 GitHub。
+完成一次编辑后，请点击 CUSTOMIZE FILE → EXPORT COMPLETE PACKAGE，保存新的完整 ZIP。
