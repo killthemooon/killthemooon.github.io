@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "exportedAt": "2026-09-04T23:07:51.494Z",
+  "exportedAt": "2026-09-04T23:54:45.826Z",
   "settings": {
     "pageColor": "#e0e5e5",
     "sheetColor": "#eaf0f0",
@@ -433,7 +433,7 @@
     {
       "id": "01",
       "formula": "v = \\sqrt{g h} . 001",
-      "title": "ARTIFICIAL WAVES.",
+      "title": "ARTIFICIAL WAVES",
       "storyEnglish": "\n              <p class=\"section-code\">ENGLISH TRANSMISSION</p>\n              <p>In the mimetic domain, they drift passively along oscillatory trajectories, functioning as parametric models. Two conventional beams converge at the system’s periphery, provoking an anomalous, metastable standing wave—its frequency erratic, its amplitude misaligned. Time momentarily arrests at the locus of interference: at a low-probability resonance node, his crest and her trough become phase-inverted, instantaneously cancelling each other through destructive interference, resolving, momentarily, into zero amplitude.</p>\n              <p>The moon, coarse as a salt crystal, recedes into the damp night—even though its albedo is only 0.12. Within the fishing-light matrix, micro-deviations spiral unchecked—misread by her as another marine body. The surge breaches overhead before the background parameters, persistently amplified, surface as a necessary fault in the perturbation chain. Tolerance thresholds rupture; signs decouple, variables disintegrate, and the algorithm withdraws from its attempt to resolve the state.</p>\n              <p>Within the shadowed meridian between nautical dusk and dawn, the experimental models survey each other across a shared liminal horizon—engaging in self-preservation routines within data-stream blind spots, continually patching the fractures along the margins of error. In a fleeting moment, the mechanical light of the setting sun etches across the sea’s fault line. He turns and says:</p><p>“Perhaps, this time, we needn’t part again.”</p>\n              <blockquote><br></blockquote>\n            ",
       "storyChinese": "\n              <p class=\"section-code\">中文转录</p>\n              <p>在拟态空间里，他们作为变量模型沿波动轨迹被动漂移；</p><p>两股常规波束自边界相汇，诱发极罕见的非稳定驻波态，频率漂移，振幅错位；时间在靶心干涉点短暂冻结，在低概率的共振节点上，他的波峰与她的波谷相位互反，瞬时抵消，规整为零。</p>\n              <p>月亮如同一颗粗粝的盐，躲进夜里受潮，</p><p>她误以为那是另一汪海，渔火通明…</p><p>直至深海袭至头顶，他们是被扰乱秩序，误差被无限放大的实验参照；实验范围远超预期，符号的变动，因数的更迭都不再具备参考价值。</p>\n              <p>两个实验模型在航海晨昏蒙影线相互瞭望，</p><p>海的盲区自救，匆忙地拼凑自己的影子。瞬息间，机械落日的余晖填满海平面的缝隙，他调头过来说：</p><p><br></p><p>“要不这次，我们别再分开了。”</p>\n              <blockquote><br></blockquote>\n            ",
       "layout": "grid",
@@ -449,9 +449,11 @@
           "recordId": "record-01-1788474824252-1",
           "file": "Weixin Image_20260903122136_171_1.jpg",
           "blobKey": "record-01-1788474824252-1",
+          "assetPath": "media/01-01-Weixin-Image_20260903122136_171_1.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 12,
           "caption": "FIG. A—01",
           "data": {
@@ -462,8 +464,7 @@
             "software": "Blender, Nomad",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/01-01-Weixin-Image_20260903122136_171_1.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -471,9 +472,11 @@
           "recordId": "record-01-1788475499422-2",
           "file": "mermaid 1.jpg",
           "blobKey": "record-01-1788475499422-2",
+          "assetPath": "media/01-02-mermaid-1.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 12,
           "caption": "FIG. A—03",
           "data": {
@@ -484,8 +487,7 @@
             "software": "Blender, Nomad",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/01-02-mermaid-1.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -493,9 +495,11 @@
           "recordId": "record-01-1788475604145-3",
           "file": "Weixin Image_20260902231453_161_1.jpg",
           "blobKey": "record-01-1788475604145-3",
+          "assetPath": "media/01-03-Weixin-Image_20260902231453_161_1.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 6,
           "caption": "FIG. A—04",
           "data": {
@@ -506,8 +510,7 @@
             "software": "Blender, Nomad",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/01-03-Weixin-Image_20260902231453_161_1.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -515,9 +518,11 @@
           "recordId": "record-01-1788475685805-6",
           "file": "Weixin Image_20260902231448_158_1.jpg",
           "blobKey": "record-01-1788475685805-6",
+          "assetPath": "media/01-04-Weixin-Image_20260902231448_158_1.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 6,
           "caption": "FIG. A—07",
           "data": {
@@ -528,8 +533,7 @@
             "software": "Blender, Nomad",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/01-04-Weixin-Image_20260902231448_158_1.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -537,9 +541,11 @@
           "recordId": "record-01-1788475630554-4",
           "file": "Weixin Image_20260902231449_159_1.jpg",
           "blobKey": "record-01-1788475630554-4",
+          "assetPath": "media/01-05-Weixin-Image_20260902231449_159_1.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 6,
           "caption": "FIG. A—05",
           "data": {
@@ -550,8 +556,7 @@
             "software": "Blender, Nomad",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/01-05-Weixin-Image_20260902231449_159_1.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -559,9 +564,11 @@
           "recordId": "record-01-1788475664654-5",
           "file": "Weixin Image_20260902231454_162_1.jpg",
           "blobKey": "record-01-1788475664654-5",
+          "assetPath": "media/01-06-Weixin-Image_20260902231454_162_1.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 6,
           "caption": "FIG. A—06",
           "data": {
@@ -572,8 +579,7 @@
             "software": "Blender, Nomad",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/01-06-Weixin-Image_20260902231454_162_1.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -581,9 +587,11 @@
           "recordId": "record-01-1788475867603-7",
           "file": "WeChat-Image_20240616210944.jpg",
           "blobKey": "record-01-1788475867603-7",
+          "assetPath": "media/01-07-WeChat-Image_20240616210944.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 6,
           "caption": "FIG. A—08",
           "data": {
@@ -594,8 +602,7 @@
             "software": "Nomad",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/01-07-WeChat-Image_20240616210944.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -603,9 +610,11 @@
           "recordId": "record-01-1788476017326-8",
           "file": "moon.jpg",
           "blobKey": "record-01-1788476017326-8",
+          "assetPath": "media/01-08-moon.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 6,
           "caption": "FIG. A—09",
           "data": {
@@ -616,8 +625,7 @@
             "software": "Nomad, Procreate",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/01-08-moon.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -625,9 +633,11 @@
           "recordId": "record-01-1788476184608-11",
           "file": "WeChat-Image_20240617002355.jpg",
           "blobKey": "record-01-1788476184608-11",
+          "assetPath": "media/01-09-WeChat-Image_20240617002355.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 7,
           "caption": "FIG. A—12",
           "data": {
@@ -638,8 +648,7 @@
             "software": "Nomad",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/01-09-WeChat-Image_20240617002355.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -647,9 +656,11 @@
           "recordId": "record-01-1788476192587-12",
           "file": "2.jpg",
           "blobKey": "record-01-1788476192587-12",
+          "assetPath": "media/01-10-2.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 5,
           "caption": "FIG. A—13",
           "data": {
@@ -660,8 +671,7 @@
             "software": "Procreate",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/01-10-2.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -669,9 +679,11 @@
           "recordId": "record-01-1788476169259-9",
           "file": "3.jpg",
           "blobKey": "record-01-1788476169259-9",
+          "assetPath": "media/01-11-3.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 5,
           "caption": "FIG. A—10",
           "data": {
@@ -682,8 +694,7 @@
             "software": "Nomad",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/01-11-3.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -691,9 +702,11 @@
           "recordId": "record-01-1788476174690-10",
           "file": "Screenshot-2025-07-18-135402.png",
           "blobKey": "record-01-1788476174690-10",
+          "assetPath": "media/01-12-Screenshot-2025-07-18-135402.png",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 7,
           "caption": "FIG. A—11",
           "data": {
@@ -704,8 +717,7 @@
             "software": "Nomad",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/01-12-Screenshot-2025-07-18-135402.png"
+          "referenceImages": []
         }
       ]
     },
@@ -728,9 +740,11 @@
           "recordId": "record-02-1788544790029-5",
           "file": "Weixin Image_20260903104835_169_1.jpg",
           "blobKey": "record-02-1788544790029-5",
+          "assetPath": "media/02-01-Weixin-Image_20260903104835_169_1.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 12,
           "caption": "FIG. B—06",
           "data": {
@@ -741,8 +755,7 @@
             "software": "Blender, Nomad, cloudcb.me",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/02-01-Weixin-Image_20260903104835_169_1.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -750,9 +763,11 @@
           "recordId": "record-02-1788519573205-0",
           "file": "6.jpg",
           "blobKey": "record-02-1788519573205-0",
+          "assetPath": "media/02-02-6.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 7,
           "caption": "FIG. B—01",
           "data": {
@@ -763,8 +778,7 @@
             "software": "Nomad, Procreate",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/02-02-6.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -772,9 +786,11 @@
           "recordId": "record-02-1788519595355-1",
           "file": "WeChat-Image_20240617203250.jpg",
           "blobKey": "record-02-1788519595355-1",
+          "assetPath": "media/02-03-WeChat-Image_20240617203250.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 5,
           "caption": "FIG. B—02",
           "data": {
@@ -785,8 +801,7 @@
             "software": "Blender， Nomad",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/02-03-WeChat-Image_20240617203250.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -794,9 +809,11 @@
           "recordId": "record-02-1788519875408-2",
           "file": "8.jpg",
           "blobKey": "record-02-1788519875408-2",
+          "assetPath": "media/02-04-8.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 5,
           "caption": "FIG. B—03",
           "data": {
@@ -807,8 +824,7 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/02-04-8.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -816,9 +832,11 @@
           "recordId": "record-02-1788519903907-3",
           "file": "WeChat-Image_20240617213528.jpg",
           "blobKey": "record-02-1788519903907-3",
+          "assetPath": "media/02-05-WeChat-Image_20240617213528.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 4,
           "caption": "FIG. B—04",
           "data": {
@@ -829,8 +847,7 @@
             "software": "PROCREATE",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/02-05-WeChat-Image_20240617213528.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -838,9 +855,11 @@
           "recordId": "record-02-1788519982292-4",
           "file": "WeChat-Image_20240617222538.jpg",
           "blobKey": "record-02-1788519982292-4",
+          "assetPath": "media/02-06-WeChat-Image_20240617222538.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 3,
           "caption": "FIG. B—05",
           "data": {
@@ -851,15 +870,14 @@
             "software": "",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/02-06-WeChat-Image_20240617222538.jpg"
+          "referenceImages": []
         }
       ]
     },
     {
       "id": "03",
       "formula": "<span class=\"base\" style=\"letter-spacing: -0.035em;\"><span class=\"mord mathnormal\">ρ</span><span class=\"mspace\"></span><span class=\"mrel\"><span class=\"mop op-limits\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\"><span class=\"pstrut\"></span><span class=\"mop\">=</span><span class=\"pstrut\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\"><span class=\"mord mtight\"><span class=\"mord mathrm mtight\">def</span></span></span></span></span></span></span></span></span><span class=\"mspace\"></span></span><span class=\"base\" style=\"letter-spacing: -0.035em;\"><span class=\"strut\"></span><span class=\"mop op-limits\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\"><span class=\"pstrut\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mathnormal mtight\">i</span></span><span class=\"pstrut\"></span><span class=\"mop op-symbol large-op\">∑</span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\"></span></span></span></span><span class=\"mspace\"></span><span class=\"mord\"><span class=\"mord mathnormal\">w</span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\"><span class=\"pstrut\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mathnormal mtight\">i</span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\"></span></span></span></span></span><span class=\"mord\">∣</span><span class=\"mord\"><span class=\"mord mathnormal\">ψ</span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\"><span class=\"pstrut\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mathnormal mtight\">i</span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\"></span></span></span></span></span><span class=\"mclose\">⟩</span><span class=\"mopen\">⟨</span><span class=\"mord\"><span class=\"mord mathnormal\">ψ</span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\"><span class=\"pstrut\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mathnormal mtight\">i</span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\"></span></span></span></span></span><span class=\"mord\">∣</span></span>&nbsp;.003",
-      "title": "ADD WORK TITLE.",
+      "title": "PRIVATE WEATHER",
       "storyEnglish": "<p class=\"section-code\">ENGLISH TRANSMISSION</p><p>“Although Baudelaire was essentially a city dweller, he also felt the increased value of inner space when his home was besieged by the cold winter.”</p>",
       "storyChinese": "<p class=\"section-code\">中文转录</p><p>波德莱尔虽然本质上是一个城市居民，但在家宅遭受寒冬侵袭的时候，他也感受到内心空间价值的增长。</p>",
       "layout": "grid",
@@ -875,9 +893,11 @@
           "recordId": "record-03-1788521798701-0",
           "file": "16.jpg",
           "blobKey": "record-03-1788521798701-0",
+          "assetPath": "media/03-01-16.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 4,
           "caption": "FIG. C—01",
           "data": {
@@ -888,8 +908,7 @@
             "software": "PS",
             "notes": "In 1954, biologist F.A. Brown moved oysters from Connecticut to a basement aquarium in Chicago. For two weeks, their behaviour was normal. Then, they began following a mysterious rhythm, unrelated to any known tides. Despite being far from the sea, these oysters seemed to carry an innate connection to it, demonstrating their deep-rooted, ancestral link to the ocean."
           },
-          "referenceImages": [],
-          "assetPath": "media/03-01-16.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -897,9 +916,11 @@
           "recordId": "record-03-1788521811073-1",
           "file": "WeChat-Image_20240618002826.jpg",
           "blobKey": "record-03-1788521811073-1",
+          "assetPath": "media/03-02-WeChat-Image_20240618002826.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 4,
           "caption": "FIG. C—02",
           "data": {
@@ -910,8 +931,7 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/03-02-WeChat-Image_20240618002826.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -919,9 +939,11 @@
           "recordId": "record-03-1788521818446-2",
           "file": "17.jpg",
           "blobKey": "record-03-1788521818446-2",
+          "assetPath": "media/03-03-17.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 4,
           "caption": "FIG. C—03",
           "data": {
@@ -932,8 +954,7 @@
             "software": "Nomad, procreate",
             "notes": "Like someone hiding a letter in their coat — not reading it in public, but touching the pocket again and again to feel its presence.\n\n"
           },
-          "referenceImages": [],
-          "assetPath": "media/03-03-17.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -941,9 +962,11 @@
           "recordId": "record-03-1788521838901-4",
           "file": "15.jpg",
           "blobKey": "record-03-1788521838901-4",
+          "assetPath": "media/03-04-15.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 4,
           "caption": "FIG. C—05",
           "data": {
@@ -954,8 +977,7 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/03-04-15.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -963,9 +985,11 @@
           "recordId": "record-03-1788521832512-3",
           "file": "14.jpg",
           "blobKey": "record-03-1788521832512-3",
+          "assetPath": "media/03-05-14.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 4,
           "caption": "FIG. C—04",
           "data": {
@@ -976,8 +1000,7 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/03-05-14.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -985,9 +1008,11 @@
           "recordId": "record-03-1788558950478-8",
           "file": "YS_09_04_YS_Generator_2026_09_04_22_32_06.png",
           "blobKey": "record-03-1788558950478-8",
+          "assetPath": "media/03-06-YS_09_04_YS_Generator_2026_09_04_22_32_06.png",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 4,
           "caption": "FIG. C—09",
           "data": {
@@ -998,8 +1023,7 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/03-06-YS_09_04_YS_Generator_2026_09_04_22_32_06.png"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -1007,9 +1031,11 @@
           "recordId": "record-03-1788558961650-9",
           "file": "YS_09_04_YS_Generator_2026_09_04_22_30_44.png",
           "blobKey": "record-03-1788558961650-9",
+          "assetPath": "media/03-07-YS_09_04_YS_Generator_2026_09_04_22_30_44.png",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 4,
           "caption": "FIG. C—10",
           "data": {
@@ -1020,8 +1046,7 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/03-07-YS_09_04_YS_Generator_2026_09_04_22_30_44.png"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -1029,9 +1054,11 @@
           "recordId": "record-03-1788522807042-7",
           "file": "WeChat-Image_20240618015631.jpg",
           "blobKey": "record-03-1788522807042-7",
+          "assetPath": "media/03-08-WeChat-Image_20240618015631.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 4,
           "caption": "FIG. C—08",
           "data": {
@@ -1042,15 +1069,14 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/03-08-WeChat-Image_20240618015631.jpg"
+          "referenceImages": []
         }
       ]
     },
     {
       "id": "04",
       "formula": "xn+1 = λxn (1-xn). 004",
-      "title": "CHAOS SYSYTEM",
+      "title": "CHAOS SYSTEM",
       "storyEnglish": "<p class=\"section-code\">ENGLISH TRANSMISSION</p><p style=\"font-family: Arcadian, &quot;Instrument Serif&quot;, Georgia, serif; font-size: 18px; color: rgb(124, 143, 146);\"><span style=\"background-color: initial;\">The backflow rain disrupted the quantum channels between spacetime continuums, causing echoes of the past to overlap with inorganic projections of the future.</span></p><p style=\"font-family: Arcadian, &quot;Instrument Serif&quot;, Georgia, serif; font-size: 18px; color: rgb(124, 143, 146);\">I sincerely invite you to Get Caught in the rain, in the past or future, become quantum entangled with me.</p><p>1.&nbsp; &nbsp; &nbsp; Temporal Chaos</p><p>I incorporated steampunk mechanical elements and futuristic transparent materials, treating the entire piece to appear weathered as if it had endured the ravages of war. This approach aligns with the elements of temporal chaos, intentionally blurring the time setting to leave room for audience imagination. The resulting damage and chaos raise the question: was the spark for this destruction ignited in the past, the present, or the future?&nbsp;&nbsp;</p><p>&nbsp;</p><p>2.&nbsp; &nbsp; &nbsp; Spatial Chaos&nbsp;</p><p>I used the main colours and textures of wasteland aesthetics to shape marine life, fitting the elements of spatial chaos. The natural order of evolution is disrupted by human intervention. If the self-similarity of nature is broken, and the fluid structure of the ocean overlaps with the mountainous formations, does this signify the end of nature.</p><p><br></p><p>3.&nbsp; &nbsp; &nbsp; Temporal Chaos.</p><p>The sculpture features remnants of damage, including burn marks and rust, which are traces from the past. Simultaneously, the flowing liquid on the sculpture signifies that it is melting, embodying the coexistence of motion and stillness, aligning with the elements of temporal chaos. Is the apocalyptic catastrophe frozen in yesterday, today, or the present moment?</p><p>4.&nbsp; &nbsp; &nbsp; &nbsp; Functional (or conceptual) Chaos&nbsp;</p><p>While I yearn for the essence of art, my writing and created artworks are burdened with utilitarian motives and complex forms. The content I express is often fragmented, shallow, chaotic, and lacks coherence. There is a significant element of pretentiousness, technical showmanship, and empty posturing. This mirrors the final element of chaos theory: \"functional (or conceptual) chaos,\" reflecting my own turbulent existence in this bizarre and multifaceted space-time. In this state, because of the excessive redundancy of fragmented information, order and chaos coexist, embodying my restless self.</p>",
       "storyChinese": "<p class=\"section-code\">中文转录</p><p style=\"font-family: GenRyuMin, 源流明朝, &quot;Noto Serif SC&quot;, &quot;Songti SC&quot;, serif; font-size: 18px; color: rgb(124, 143, 146);\">溯洄雨打乱了时空连续体之间的量子通道，过去的残响和未来的无机质的投影交叠。</p><p style=\"font-family: GenRyuMin, 源流明朝, &quot;Noto Serif SC&quot;, &quot;Songti SC&quot;, serif; font-size: 18px; color: rgb(124, 143, 146);\">诚邀您，淋湿大雨，在过去或是未来，与我量子纠缠。</p>",
       "layout": "grid",
@@ -1066,9 +1092,11 @@
           "recordId": "record-04-1788523741090-0",
           "file": "WeChat-Image_20240618110430.jpg",
           "blobKey": "record-04-1788523741090-0",
+          "assetPath": "media/04-01-WeChat-Image_20240618110430.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 12,
           "caption": "FIG. D—01",
           "data": {
@@ -1079,8 +1107,7 @@
             "software": "",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/04-01-WeChat-Image_20240618110430.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -1088,9 +1115,11 @@
           "recordId": "record-04-1788523982229-1",
           "file": "mer-side.jpg",
           "blobKey": "record-04-1788523982229-1",
+          "assetPath": "media/04-02-mer-side.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 6,
           "caption": "FIG. D—02",
           "data": {
@@ -1101,8 +1130,7 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/04-02-mer-side.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -1110,9 +1138,11 @@
           "recordId": "record-04-1788524046449-5",
           "file": "mermaid-close.jpg",
           "blobKey": "record-04-1788524046449-5",
+          "assetPath": "media/04-03-mermaid-close.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 6,
           "caption": "FIG. D—06",
           "data": {
@@ -1123,8 +1153,7 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/04-03-mermaid-close.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -1132,9 +1161,11 @@
           "recordId": "record-04-1788524012936-2",
           "file": "WeChat-Image_20240620232921.jpg",
           "blobKey": "record-04-1788524012936-2",
+          "assetPath": "media/04-04-WeChat-Image_20240620232921.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 3,
           "caption": "FIG. D—03",
           "data": {
@@ -1145,8 +1176,7 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/04-04-WeChat-Image_20240620232921.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -1154,9 +1184,11 @@
           "recordId": "record-04-1788524020917-3",
           "file": "Weixin-Image_2025-07-18_160818_750.jpg",
           "blobKey": "record-04-1788524020917-3",
+          "assetPath": "media/04-05-Weixin-Image_2025-07-18_160818_750.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 6,
           "caption": "FIG. D—04",
           "data": {
@@ -1167,8 +1199,7 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/04-05-Weixin-Image_2025-07-18_160818_750.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -1176,9 +1207,11 @@
           "recordId": "record-04-1788524029775-4",
           "file": "merimaid-print.jpg",
           "blobKey": "record-04-1788524029775-4",
+          "assetPath": "media/04-06-merimaid-print.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 3,
           "caption": "FIG. D—05",
           "data": {
@@ -1189,8 +1222,7 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/04-06-merimaid-print.jpg"
+          "referenceImages": []
         }
       ]
     },
@@ -1213,9 +1245,11 @@
           "recordId": "record-05-1788532849380-1",
           "file": "Weixin-Image_20260313114724_2410_4.jpg",
           "blobKey": "record-05-1788532849380-1",
+          "assetPath": "media/05-01-Weixin-Image_20260313114724_2410_4.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 12,
           "caption": "FIG. E—02",
           "data": {
@@ -1226,23 +1260,23 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/05-01-Weixin-Image_20260313114724_2410_4.jpg"
+          "referenceImages": []
         },
         {
           "type": "video",
           "order": 2,
           "recordId": "video-05-01",
-          "file": "blob:null/736496dd-119e-44c2-a9b1-8171d48b0920",
+          "file": "media/05-video-02-cover-Weixin-Image_20260313114723_2409_4.jpg",
           "blobKey": "",
+          "assetPath": "",
           "videoUrl": "https://youtu.be/uxOSOYphb9U",
           "posterBlobKey": "video-05-01-poster",
           "posterFileName": "Weixin-Image_20260313114723_2409_4.jpg",
+          "posterAssetPath": "media/05-video-02-cover-Weixin-Image_20260313114723_2409_4.jpg",
           "rowWidth": 6,
           "caption": "MOVING IMAGE E—01",
           "data": null,
-          "referenceImages": [],
-          "posterAssetPath": "media/05-video-02-cover-Weixin-Image_20260313114723_2409_4.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -1250,9 +1284,11 @@
           "recordId": "record-05-1788532908781-2",
           "file": "Weixin-Image_20260313114721_2408_4.jpg",
           "blobKey": "record-05-1788532908781-2",
+          "assetPath": "media/05-03-Weixin-Image_20260313114721_2408_4.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 6,
           "caption": "FIG. E—03",
           "data": {
@@ -1263,8 +1299,7 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/05-03-Weixin-Image_20260313114721_2408_4.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -1272,9 +1307,11 @@
           "recordId": "record-05-1788532948165-4",
           "file": "Weixin-Image_20260313114732_2415_4.jpg",
           "blobKey": "record-05-1788532948165-4",
+          "assetPath": "media/05-04-Weixin-Image_20260313114732_2415_4.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 3,
           "caption": "FIG. E—05",
           "data": {
@@ -1285,8 +1322,7 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/05-04-Weixin-Image_20260313114732_2415_4.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -1294,9 +1330,11 @@
           "recordId": "record-05-1788532948165-3",
           "file": "Weixin-Image_20260313114731_2414_4.jpg",
           "blobKey": "record-05-1788532948165-3",
+          "assetPath": "media/05-05-Weixin-Image_20260313114731_2414_4.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 3,
           "caption": "FIG. E—04",
           "data": {
@@ -1307,8 +1345,7 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/05-05-Weixin-Image_20260313114731_2414_4.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -1316,9 +1353,11 @@
           "recordId": "record-05-1788532948166-5",
           "file": "Weixin-Image_20260313123549_2418_4.jpg",
           "blobKey": "record-05-1788532948166-5",
+          "assetPath": "media/05-06-Weixin-Image_20260313123549_2418_4.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 6,
           "caption": "FIG. E—06",
           "data": {
@@ -1329,8 +1368,7 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/05-06-Weixin-Image_20260313123549_2418_4.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -1338,9 +1376,11 @@
           "recordId": "record-05-1788533010603-6",
           "file": "Weixin-Image_20260313114726_2411_4.jpg",
           "blobKey": "record-05-1788533010603-6",
+          "assetPath": "media/05-07-Weixin-Image_20260313114726_2411_4.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 6,
           "caption": "FIG. E—07",
           "data": {
@@ -1351,8 +1391,7 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/05-07-Weixin-Image_20260313114726_2411_4.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -1360,9 +1399,11 @@
           "recordId": "record-05-1788533010604-7",
           "file": "Weixin-Image_20260313114727_2412_4.jpg",
           "blobKey": "record-05-1788533010604-7",
+          "assetPath": "media/05-08-Weixin-Image_20260313114727_2412_4.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 6,
           "caption": "FIG. E—08",
           "data": {
@@ -1373,8 +1414,7 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/05-08-Weixin-Image_20260313114727_2412_4.jpg"
+          "referenceImages": []
         }
       ]
     },
@@ -1397,9 +1437,11 @@
           "recordId": "record-06-1788536134559-0",
           "file": "cyber-dragonnfly.png",
           "blobKey": "record-06-1788536134559-0",
+          "assetPath": "media/06-01-cyber-dragonnfly.png",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 12,
           "caption": "FIG. F—01",
           "data": {
@@ -1410,8 +1452,7 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/06-01-cyber-dragonnfly.png"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -1419,9 +1460,11 @@
           "recordId": "record-06-1788536148739-1",
           "file": "cyber-dragonfly.png",
           "blobKey": "record-06-1788536148739-1",
+          "assetPath": "media/06-02-cyber-dragonfly.png",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 12,
           "caption": "FIG. F—02",
           "data": {
@@ -1432,8 +1475,7 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/06-02-cyber-dragonfly.png"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -1441,9 +1483,11 @@
           "recordId": "record-06-1788536345036-2",
           "file": "fradgile-heart.jpg",
           "blobKey": "record-06-1788536345036-2",
+          "assetPath": "media/06-03-fradgile-heart.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 6,
           "caption": "FIG. F—03",
           "data": {
@@ -1454,8 +1498,7 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/06-03-fradgile-heart.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -1463,9 +1506,11 @@
           "recordId": "record-06-1788536369923-3",
           "file": "batterssea.jpg",
           "blobKey": "record-06-1788536369923-3",
+          "assetPath": "media/06-04-batterssea.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 6,
           "caption": "FIG. F—04",
           "data": {
@@ -1476,15 +1521,14 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/06-04-batterssea.jpg"
+          "referenceImages": []
         }
       ]
     },
     {
       "id": "07",
       "formula": "Q = ΔPπr⁴ / 8ηL. 007",
-      "title": "SRING UNDER THE SKIN",
+      "title": "SPRING UNDER THE SKIN",
       "storyEnglish": "<p class=\"section-code\">ENGLISH TRANSMISSION</p><div class=\"text-base my-auto mx-auto [--thread-content-margin:var(--thread-content-margin-xs,calc(var(--spacing)*4))] @w-sm/main:[--thread-content-margin:var(--thread-content-margin-sm,calc(var(--spacing)*6))] @w-lg/main:[--thread-content-margin:var(--thread-content-margin-lg,calc(var(--spacing)*16))] px-(--thread-content-margin)\"><div data-conversation-screenshot-content=\"\" class=\"[--thread-content-max-width:40rem] @w-lg/main:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col agent-turn\"><div class=\"flex max-w-full flex-col gap-4 grow\"><div data-message-author-role=\"assistant\" data-message-id=\"fbcc4b67-08d2-4f08-856e-8d9f2825c487\" dir=\"auto\" data-message-model-slug=\"gpt-5-6-thinking\" class=\"min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal outline-none keyboard-focused:focus-ring [.text-message+&amp;]:mt-1\"><div class=\"flex w-full flex-col gap-1 empty:hidden\"><div class=\"markdown prose dark:prose-invert wrap-break-word w-full light markdown-new-styling\"><p data-start=\"29\" data-end=\"446\" data-is-last-node=\"\" data-is-only-node=\"\">May God visit upon you all that you have visited upon me.</p><p data-start=\"29\" data-end=\"446\" data-is-last-node=\"\" data-is-only-node=\"\">\nMay you live without a consort, and remain unanointed until death.</p><p data-start=\"29\" data-end=\"446\" data-is-last-node=\"\" data-is-only-node=\"\">\nMay you shed tears as you beg for your mother’s milk.</p><p data-start=\"29\" data-end=\"446\" data-is-last-node=\"\" data-is-only-node=\"\"><span style=\"background-color: initial;\">May your bones arch out of the ground.</span></p><p data-start=\"29\" data-end=\"446\" data-is-last-node=\"\" data-is-only-node=\"\">\nMay your own blood never wash off your agony.</p><p data-start=\"29\" data-end=\"446\" data-is-last-node=\"\" data-is-only-node=\"\">\nMay the serpent bite into the nest of your heart.</p><p data-start=\"29\" data-end=\"446\" data-is-last-node=\"\" data-is-only-node=\"\">\nMay you walk barefoot over a bed of thorns.</p><p data-start=\"29\" data-end=\"446\" data-is-last-node=\"\" data-is-only-node=\"\">\nMay it be my blessing that seals your demise.</p><p data-start=\"29\" data-end=\"446\" data-is-last-node=\"\" data-is-only-node=\"\"><br></p><p data-start=\"29\" data-end=\"446\" data-is-last-node=\"\" data-is-only-node=\"\"></p><div aria-hidden=\"true\" class=\"pointer-events-none -mt-px h-px translate-y-(--scroll-root-safe-area-inset-bottom)\"></div><p></p><div class=\"qMYqUG_convSearchResultHighlightRoot\"><div class=\"\" data-turn-id-container=\"f699430c-b3ab-449c-a790-830322cd07c3\" data-is-intersecting=\"true\"><section class=\"text-token-text-primary w-full focus:outline-none has-data-writing-block:pointer-events-none [&amp;:has([data-writing-block])&gt;*]:pointer-events-auto R6Vx5W_threadScrollVars scroll-mb-[calc(var(--scroll-root-safe-area-inset-bottom,0px)+var(--thread-response-height))] scroll-mt-[calc(var(--header-height)+min(200px,max(70px,20svh)))]\" dir=\"auto\" data-turn-id=\"f699430c-b3ab-449c-a790-830322cd07c3\" data-turn-id-container=\"f699430c-b3ab-449c-a790-830322cd07c3\" data-testid=\"conversation-turn-10\" data-turn=\"assistant\"><div class=\"text-base my-auto mx-auto pb-8 [--thread-content-margin:var(--thread-content-margin-xs,calc(var(--spacing)*4))] @w-sm/main:[--thread-content-margin:var(--thread-content-margin-sm,calc(var(--spacing)*6))] @w-lg/main:[--thread-content-margin:var(--thread-content-margin-lg,calc(var(--spacing)*16))] px-(--thread-content-margin)\"><div data-conversation-screenshot-content=\"\" class=\"[--thread-content-max-width:40rem] @w-lg/main:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col agent-turn\"><div class=\"flex max-w-full flex-col gap-4 grow\"><div data-message-author-role=\"assistant\" data-message-id=\"d1aa522d-554e-416c-aad7-2ed6bc156908\" data-turn-start-message=\"true\" dir=\"auto\" tabindex=\"0\" data-message-model-slug=\"gpt-5-6-thinking\" class=\"min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal outline-none keyboard-focused:focus-ring [.text-message+&amp;]:mt-1\"><div class=\"flex w-full flex-col gap-1 empty:hidden\"><div class=\"markdown prose dark:prose-invert wrap-break-word w-full light markdown-new-styling\"><p data-start=\"121\" data-end=\"322\" data-is-last-node=\"\" data-is-only-node=\"\" class=\"PDq2pG_selectionAnchorContainer\">This text was sent to me by a friend. Its imagery draws from the Balkan folk tradition of <strong data-start=\"211\" data-end=\"322\" data-is-last-node=\"\">kletve - curses or imprecations - and echoes related passages in Dubravka Ugrešić’s <em data-start=\"297\" data-end=\"319\">The Ministry of Pain</em>.</strong><span aria-hidden=\"true\" class=\"PDq2pG_selectionAnchor\"></span></p></div></div></div></div><div class=\"z-0 flex min-h-[46px] justify-start\"></div></div><div data-conversation-screenshot-content=\"\" class=\"[--thread-content-max-width:40rem] @w-lg/main:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1\"><div></div></div></div></section></div></div></div></div></div></div><div class=\"z-0 flex min-h-[46px] justify-start\"></div></div><div data-conversation-screenshot-content=\"\" class=\"[--thread-content-max-width:40rem] @w-lg/main:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1\"><div></div></div></div>",
       "storyChinese": "<p class=\"section-code\">中文转录</p><p>愿神将你施加于我的一切施加于你。</p><p>&nbsp;愿你生时没有配偶，临终不受油膏。</p><p>愿你哭着要妈妈的奶。</p><p>愿你的骨头从地里拱出来。</p><p>愿你的血带给你剧痛。</p><p>愿蛇咬你的心窝。</p><p>愿你光脚从荆棘丛上走过。</p><p>愿我的祝福杀死你。</p><p><br></p><p>这段文字由挚友发给我，其意象源自巴尔干地区的民间 kletve（诅咒）传统，并与 Dubravka Ugrešić 的 <em data-start=\"73\" data-end=\"95\">The Ministry of Pain</em> 中的相关文本产生呼应。</p>",
       "layout": "grid",
@@ -1500,9 +1544,11 @@
           "recordId": "record-07-1788541319757-0",
           "file": "blood.jpg",
           "blobKey": "record-07-1788541319757-0",
+          "assetPath": "media/07-01-blood.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 6,
           "caption": "FIG. G—01",
           "data": {
@@ -1513,8 +1559,7 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/07-01-blood.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -1522,9 +1567,11 @@
           "recordId": "record-07-1788541333741-1",
           "file": "spring.jpg",
           "blobKey": "record-07-1788541333741-1",
+          "assetPath": "media/07-02-spring.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 6,
           "caption": "FIG. G—02",
           "data": {
@@ -1535,8 +1582,7 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/07-02-spring.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -1544,9 +1590,11 @@
           "recordId": "record-07-1788541362818-3",
           "file": "grass.jpg",
           "blobKey": "record-07-1788541362818-3",
+          "assetPath": "media/07-03-grass.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 6,
           "caption": "FIG. G—04",
           "data": {
@@ -1557,8 +1605,7 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/07-03-grass.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -1566,9 +1613,11 @@
           "recordId": "record-07-1788541348667-2",
           "file": "snake.jpg",
           "blobKey": "record-07-1788541348667-2",
+          "assetPath": "media/07-04-snake.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 6,
           "caption": "FIG. G—03",
           "data": {
@@ -1579,8 +1628,7 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/07-04-snake.jpg"
+          "referenceImages": []
         }
       ]
     },
@@ -1603,9 +1651,11 @@
           "recordId": "record-08-1788544495097-0",
           "file": "breathe-front.jpg",
           "blobKey": "record-08-1788544495097-0",
+          "assetPath": "media/08-01-breathe-front.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 6,
           "caption": "FIG. H—01",
           "data": {
@@ -1616,8 +1666,7 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/08-01-breathe-front.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -1625,9 +1674,11 @@
           "recordId": "record-08-1788544502052-1",
           "file": "breathe-whole.jpg",
           "blobKey": "record-08-1788544502052-1",
+          "assetPath": "media/08-02-breathe-whole.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 6,
           "caption": "FIG. H—02",
           "data": {
@@ -1638,8 +1689,7 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/08-02-breathe-whole.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -1647,9 +1697,11 @@
           "recordId": "record-08-1788544506553-2",
           "file": "breathe-side.jpg",
           "blobKey": "record-08-1788544506553-2",
+          "assetPath": "media/08-03-breathe-side.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 12,
           "caption": "FIG. H—03",
           "data": {
@@ -1660,8 +1712,7 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/08-03-breathe-side.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -1669,9 +1720,11 @@
           "recordId": "record-08-1788544546707-3",
           "file": "piano-close.jpg",
           "blobKey": "record-08-1788544546707-3",
+          "assetPath": "media/08-04-piano-close.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 6,
           "caption": "FIG. H—04",
           "data": {
@@ -1682,8 +1735,7 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/08-04-piano-close.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -1691,9 +1743,11 @@
           "recordId": "record-08-1788544562041-4",
           "file": "piano-best.jpg",
           "blobKey": "record-08-1788544562041-4",
+          "assetPath": "media/08-05-piano-best.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 6,
           "caption": "FIG. H—05",
           "data": {
@@ -1704,8 +1758,7 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/08-05-piano-best.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -1713,9 +1766,11 @@
           "recordId": "record-08-1788544587165-5",
           "file": "piano-room.jpg",
           "blobKey": "record-08-1788544587165-5",
+          "assetPath": "media/08-06-piano-room.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 6,
           "caption": "FIG. H—06",
           "data": {
@@ -1726,8 +1781,7 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/08-06-piano-room.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -1735,9 +1789,11 @@
           "recordId": "record-08-1788544606130-6",
           "file": "butterfly.jpg",
           "blobKey": "record-08-1788544606130-6",
+          "assetPath": "media/08-07-butterfly.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 6,
           "caption": "FIG. H—07",
           "data": {
@@ -1748,8 +1804,7 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/08-07-butterfly.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -1757,9 +1812,11 @@
           "recordId": "record-08-1788544629055-7",
           "file": "boat.jpg",
           "blobKey": "record-08-1788544629055-7",
+          "assetPath": "media/08-08-boat.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 6,
           "caption": "FIG. H—08",
           "data": {
@@ -1770,8 +1827,7 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/08-08-boat.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -1779,9 +1835,11 @@
           "recordId": "record-08-1788544640486-9",
           "file": "drip-black.jpg",
           "blobKey": "record-08-1788544640486-9",
+          "assetPath": "media/08-09-drip-black.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 6,
           "caption": "FIG. H—10",
           "data": {
@@ -1792,8 +1850,7 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/08-09-drip-black.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -1801,9 +1858,11 @@
           "recordId": "record-08-1788544636242-8",
           "file": "drip-balck-n-w.jpg",
           "blobKey": "record-08-1788544636242-8",
+          "assetPath": "media/08-10-drip-balck-n-w.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 6,
           "caption": "FIG. H—09",
           "data": {
@@ -1814,8 +1873,7 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/08-10-drip-balck-n-w.jpg"
+          "referenceImages": []
         }
       ]
     },
@@ -1838,9 +1896,11 @@
           "recordId": "record-09-1788545869725-0",
           "file": "drip-best.jpg",
           "blobKey": "record-09-1788545869725-0",
+          "assetPath": "media/09-01-drip-best.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 6,
           "caption": "FIG. I—01",
           "data": {
@@ -1851,8 +1911,7 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/09-01-drip-best.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -1860,9 +1919,11 @@
           "recordId": "record-09-1788545880138-1",
           "file": "drip-vibe.jpg",
           "blobKey": "record-09-1788545880138-1",
+          "assetPath": "media/09-02-drip-vibe.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 6,
           "caption": "FIG. I—02",
           "data": {
@@ -1873,8 +1934,7 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/09-02-drip-vibe.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -1882,9 +1942,11 @@
           "recordId": "record-09-1788545940719-4",
           "file": "star-war-front.jpg",
           "blobKey": "record-09-1788545940719-4",
+          "assetPath": "media/09-03-star-war-front.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 4,
           "caption": "FIG. I—05",
           "data": {
@@ -1895,8 +1957,7 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/09-03-star-war-front.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -1904,9 +1965,11 @@
           "recordId": "record-09-1788545908878-2",
           "file": "drip-far.jpg",
           "blobKey": "record-09-1788545908878-2",
+          "assetPath": "media/09-04-drip-far.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 4,
           "caption": "FIG. I—03",
           "data": {
@@ -1917,8 +1980,7 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/09-04-drip-far.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -1926,9 +1988,11 @@
           "recordId": "record-09-1788545950408-5",
           "file": "star-war-bag.jpg",
           "blobKey": "record-09-1788545950408-5",
+          "assetPath": "media/09-05-star-war-bag.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 4,
           "caption": "FIG. I—06",
           "data": {
@@ -1939,8 +2003,7 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/09-05-star-war-bag.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -1948,9 +2011,11 @@
           "recordId": "record-09-1788545924437-3",
           "file": "star-war-close.jpg",
           "blobKey": "record-09-1788545924437-3",
+          "assetPath": "media/09-06-star-war-close.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 4,
           "caption": "FIG. I—04",
           "data": {
@@ -1961,8 +2026,7 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/09-06-star-war-close.jpg"
+          "referenceImages": []
         }
       ]
     },
@@ -1985,9 +2049,11 @@
           "recordId": "record-10-1788547946464-1",
           "file": "dragonfly-silver.jpg",
           "blobKey": "record-10-1788547946464-1",
+          "assetPath": "media/10-01-dragonfly-silver.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 6,
           "caption": "FIG. J—02",
           "data": {
@@ -1998,8 +2064,7 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/10-01-dragonfly-silver.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -2007,9 +2072,11 @@
           "recordId": "record-10-1788547946465-2",
           "file": "dragonfly-silver-pattern (1).jpg",
           "blobKey": "record-10-1788547946465-2",
+          "assetPath": "media/10-02-dragonfly-silver-pattern-1-.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 6,
           "caption": "FIG. J—03",
           "data": {
@@ -2020,8 +2087,7 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/10-02-dragonfly-silver-pattern-1-.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -2029,9 +2095,11 @@
           "recordId": "record-10-1788547946464-0",
           "file": "archi.jpg",
           "blobKey": "record-10-1788547946464-0",
+          "assetPath": "media/10-03-archi.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 5,
           "caption": "FIG. J—01",
           "data": {
@@ -2042,8 +2110,7 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/10-03-archi.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -2051,9 +2118,11 @@
           "recordId": "record-10-1788547946465-3",
           "file": "shaol.jpg",
           "blobKey": "record-10-1788547946465-3",
+          "assetPath": "media/10-04-shaol.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 7,
           "caption": "FIG. J—04",
           "data": {
@@ -2064,8 +2133,7 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/10-04-shaol.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -2073,9 +2141,11 @@
           "recordId": "record-10-1788547946465-5",
           "file": "turning-pattern.jpg",
           "blobKey": "record-10-1788547946465-5",
+          "assetPath": "media/10-05-turning-pattern.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 4,
           "caption": "FIG. J—06",
           "data": {
@@ -2086,8 +2156,7 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/10-05-turning-pattern.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -2095,9 +2164,11 @@
           "recordId": "record-10-1788547946465-4",
           "file": "train.jpg",
           "blobKey": "record-10-1788547946465-4",
+          "assetPath": "media/10-06-train.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 4,
           "caption": "FIG. J—05",
           "data": {
@@ -2108,8 +2179,7 @@
             "software": "NOT YET CATALOGUED",
             "notes": "“A train pierces through my ribs, and I thought I could see it once again.”"
           },
-          "referenceImages": [],
-          "assetPath": "media/10-06-train.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -2117,9 +2187,11 @@
           "recordId": "record-10-1788547946465-6",
           "file": "wall-light.png",
           "blobKey": "record-10-1788547946465-6",
+          "assetPath": "media/10-07-wall-light.png",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 4,
           "caption": "FIG. J—07",
           "data": {
@@ -2130,8 +2202,7 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/10-07-wall-light.png"
+          "referenceImages": []
         }
       ]
     },
@@ -2154,9 +2225,11 @@
           "recordId": "record-11-1788550118766-6",
           "file": "guitar-cd.jpg",
           "blobKey": "record-11-1788550118766-6",
+          "assetPath": "media/11-01-guitar-cd.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 7,
           "caption": "FIG. K—07",
           "data": {
@@ -2167,8 +2240,7 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/11-01-guitar-cd.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -2176,9 +2248,11 @@
           "recordId": "record-11-1788550118766-5",
           "file": "guitar-blakc-background.jpg",
           "blobKey": "record-11-1788550118766-5",
+          "assetPath": "media/11-02-guitar-blakc-background.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 5,
           "caption": "FIG. K—06",
           "data": {
@@ -2189,8 +2263,7 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/11-02-guitar-blakc-background.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -2198,9 +2271,11 @@
           "recordId": "record-11-1788550118765-2",
           "file": "escape.jpg",
           "blobKey": "record-11-1788550118765-2",
+          "assetPath": "media/11-03-escape.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 3,
           "caption": "FIG. K—03",
           "data": {
@@ -2211,8 +2286,7 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/11-03-escape.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -2220,9 +2294,11 @@
           "recordId": "record-11-1788550953796-8",
           "file": "film-eye (1).jpg",
           "blobKey": "record-11-1788550953796-8",
+          "assetPath": "media/11-04-film-eye-1-.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 4,
           "caption": "FIG. K—09",
           "data": {
@@ -2233,23 +2309,23 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/11-04-film-eye-1-.jpg"
+          "referenceImages": []
         },
         {
           "type": "video",
           "order": 5,
           "recordId": "video-11-02",
-          "file": "blob:null/95963e46-b2a0-45be-a880-0ad2093d8ab6",
+          "file": "media/11-video-05-cover-Weixin-Image_20260904204012_225_1.jpg",
           "blobKey": "",
+          "assetPath": "",
           "videoUrl": "https://youtube.com/shorts/o25PaWRbUXE",
           "posterBlobKey": "video-11-02-poster",
           "posterFileName": "Weixin Image_20260904204012_225_1.jpg",
+          "posterAssetPath": "media/11-video-05-cover-Weixin-Image_20260904204012_225_1.jpg",
           "rowWidth": 5,
           "caption": "MOVING IMAGE K—02",
           "data": null,
-          "referenceImages": [],
-          "posterAssetPath": "media/11-video-05-cover-Weixin-Image_20260904204012_225_1.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -2257,9 +2333,11 @@
           "recordId": "record-11-1788550118766-4",
           "file": "fountain.jpg",
           "blobKey": "record-11-1788550118766-4",
+          "assetPath": "media/11-06-fountain.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 4,
           "caption": "FIG. K—05",
           "data": {
@@ -2270,23 +2348,23 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/11-06-fountain.jpg"
+          "referenceImages": []
         },
         {
           "type": "video",
           "order": 7,
           "recordId": "video-11-01",
-          "file": "blob:null/35867d6d-fbcb-4489-875f-0feda5e1aecd",
+          "file": "media/11-video-07-cover-Weixin-Image_20260904203811_223_1.jpg",
           "blobKey": "",
+          "assetPath": "",
           "videoUrl": "https://youtu.be/VqmQtOIhDUM?si=QaEE9gAZRlwZBEJw",
           "posterBlobKey": "video-11-01-poster",
           "posterFileName": "Weixin Image_20260904203811_223_1.jpg",
+          "posterAssetPath": "media/11-video-07-cover-Weixin-Image_20260904203811_223_1.jpg",
           "rowWidth": 8,
           "caption": "MOVING IMAGE K—01",
           "data": null,
-          "referenceImages": [],
-          "posterAssetPath": "media/11-video-07-cover-Weixin-Image_20260904203811_223_1.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -2294,9 +2372,11 @@
           "recordId": "record-11-1788550118766-7",
           "file": "skeleton.jpg",
           "blobKey": "record-11-1788550118766-7",
+          "assetPath": "media/11-08-skeleton.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 12,
           "caption": "FIG. K—08",
           "data": {
@@ -2307,8 +2387,7 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/11-08-skeleton.jpg"
+          "referenceImages": []
         }
       ]
     },
@@ -2331,9 +2410,11 @@
           "recordId": "record-12-1788558120205-7",
           "file": "YS_09_04_YS_Generator_2026_09_04_22_39_20.png",
           "blobKey": "record-12-1788558120205-7",
+          "assetPath": "media/12-01-YS_09_04_YS_Generator_2026_09_04_22_39_20.png",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 6,
           "caption": "FIG. L—08",
           "data": {
@@ -2344,8 +2425,7 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/12-01-YS_09_04_YS_Generator_2026_09_04_22_39_20.png"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -2353,9 +2433,11 @@
           "recordId": "record-12-1788553583774-3",
           "file": "cyber-jellyfish.jpg",
           "blobKey": "record-12-1788553583774-3",
+          "assetPath": "media/12-02-cyber-jellyfish.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 6,
           "caption": "FIG. L—04",
           "data": {
@@ -2366,8 +2448,7 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/12-02-cyber-jellyfish.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -2375,9 +2456,11 @@
           "recordId": "record-12-1788553583773-0",
           "file": "absurd-world.jpg",
           "blobKey": "record-12-1788553583773-0",
+          "assetPath": "media/12-03-absurd-world.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 6,
           "caption": "FIG. L—01",
           "data": {
@@ -2388,8 +2471,7 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/12-03-absurd-world.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -2397,9 +2479,11 @@
           "recordId": "record-12-1788558726486-6",
           "file": "YS_09_04_YS_Generator_2026_09_04_22_50_18.png",
           "blobKey": "record-12-1788558726486-6",
+          "assetPath": "media/12-04-YS_09_04_YS_Generator_2026_09_04_22_50_18.png",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 6,
           "caption": "FIG. L—07",
           "data": {
@@ -2410,8 +2494,7 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/12-04-YS_09_04_YS_Generator_2026_09_04_22_50_18.png"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -2419,9 +2502,11 @@
           "recordId": "record-12-1788553583775-9",
           "file": "kiss-16.9.jpg",
           "blobKey": "record-12-1788553583775-9",
+          "assetPath": "media/12-05-kiss-16.9.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 6,
           "caption": "FIG. L—10",
           "data": {
@@ -2432,8 +2517,7 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/12-05-kiss-16.9.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -2441,9 +2525,11 @@
           "recordId": "record-12-1788553583775-7",
           "file": "fish.jpg",
           "blobKey": "record-12-1788553583775-7",
+          "assetPath": "media/12-06-fish.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 6,
           "caption": "FIG. L—08",
           "data": {
@@ -2454,8 +2540,7 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/12-06-fish.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -2463,9 +2548,11 @@
           "recordId": "record-12-1788558802438-7",
           "file": "YS_09_04_YS_Generator_2026_09_04_22_40_12.png",
           "blobKey": "record-12-1788558802438-7",
+          "assetPath": "media/12-07-YS_09_04_YS_Generator_2026_09_04_22_40_12.png",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 6,
           "caption": "FIG. L—08",
           "data": {
@@ -2476,8 +2563,7 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/12-07-YS_09_04_YS_Generator_2026_09_04_22_40_12.png"
+          "referenceImages": []
         }
       ]
     },
@@ -2500,9 +2586,11 @@
           "recordId": "record-13-1788555219856-1",
           "file": "angel-eye.jpg",
           "blobKey": "record-13-1788555219856-1",
+          "assetPath": "media/13-01-angel-eye.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 6,
           "caption": "FIG. M—02",
           "data": {
@@ -2513,8 +2601,7 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/13-01-angel-eye.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -2522,9 +2609,11 @@
           "recordId": "record-13-1788555219857-2",
           "file": "balckpink.jpg",
           "blobKey": "record-13-1788555219857-2",
+          "assetPath": "media/13-02-balckpink.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 6,
           "caption": "FIG. M—03",
           "data": {
@@ -2535,8 +2624,7 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/13-02-balckpink.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -2544,9 +2632,11 @@
           "recordId": "record-13-1788555219857-4",
           "file": "cyber-printed.jpg",
           "blobKey": "record-13-1788555219857-4",
+          "assetPath": "media/13-03-cyber-printed.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 6,
           "caption": "FIG. M—05",
           "data": {
@@ -2557,8 +2647,7 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/13-03-cyber-printed.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -2566,9 +2655,11 @@
           "recordId": "record-13-1788555219859-12",
           "file": "vodca.jpg",
           "blobKey": "record-13-1788555219859-12",
+          "assetPath": "media/13-04-vodca.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 6,
           "caption": "FIG. M—13",
           "data": {
@@ -2579,8 +2670,7 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/13-04-vodca.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -2588,9 +2678,11 @@
           "recordId": "record-13-1788555219857-5",
           "file": "cyber-printed-2.jpg",
           "blobKey": "record-13-1788555219857-5",
+          "assetPath": "media/13-05-cyber-printed-2.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 6,
           "caption": "FIG. M—06",
           "data": {
@@ -2601,8 +2693,7 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/13-05-cyber-printed-2.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -2610,9 +2701,11 @@
           "recordId": "record-13-1788558873228-6",
           "file": "YS_09_04_YS_Generator_2026_09_04_22_40_57.png",
           "blobKey": "record-13-1788558873228-6",
+          "assetPath": "media/13-06-YS_09_04_YS_Generator_2026_09_04_22_40_57.png",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 6,
           "caption": "FIG. M—07",
           "data": {
@@ -2623,8 +2716,7 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/13-06-YS_09_04_YS_Generator_2026_09_04_22_40_57.png"
+          "referenceImages": []
         }
       ]
     },
@@ -2647,9 +2739,11 @@
           "recordId": "record-14-1788559057702-0",
           "file": "snake-balck.jpg",
           "blobKey": "record-14-1788559057702-0",
+          "assetPath": "media/14-01-snake-balck.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 6,
           "caption": "FIG. N—01",
           "data": {
@@ -2660,8 +2754,7 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/14-01-snake-balck.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -2669,9 +2762,11 @@
           "recordId": "record-14-1788559068503-1",
           "file": "YS_09_04_YS_Generator_2026_09_04_22_24_56.png",
           "blobKey": "record-14-1788559068503-1",
+          "assetPath": "media/14-02-YS_09_04_YS_Generator_2026_09_04_22_24_56.png",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 6,
           "caption": "FIG. N—02",
           "data": {
@@ -2682,8 +2777,7 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/14-02-YS_09_04_YS_Generator_2026_09_04_22_24_56.png"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -2691,9 +2785,11 @@
           "recordId": "record-14-1788560800161-10",
           "file": "333.jpg",
           "blobKey": "record-14-1788560800161-10",
+          "assetPath": "media/14-03-333.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 6,
           "caption": "FIG. N—11",
           "data": {
@@ -2704,8 +2800,7 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/14-03-333.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -2713,9 +2808,11 @@
           "recordId": "record-14-1788559087283-2",
           "file": "YS_09_04_YS_Generator_2026_09_04_22_35_17.png",
           "blobKey": "record-14-1788559087283-2",
+          "assetPath": "media/14-04-YS_09_04_YS_Generator_2026_09_04_22_35_17.png",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 6,
           "caption": "FIG. N—03",
           "data": {
@@ -2726,8 +2823,7 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/14-04-YS_09_04_YS_Generator_2026_09_04_22_35_17.png"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -2735,9 +2831,11 @@
           "recordId": "record-14-1788559199999-5",
           "file": "YS_09_04_YS_Generator_2026_09_04_22_33_31.png",
           "blobKey": "record-14-1788559199999-5",
+          "assetPath": "media/14-05-YS_09_04_YS_Generator_2026_09_04_22_33_31.png",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 6,
           "caption": "FIG. N—06",
           "data": {
@@ -2748,8 +2846,7 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/14-05-YS_09_04_YS_Generator_2026_09_04_22_33_31.png"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -2757,9 +2854,11 @@
           "recordId": "record-14-1788561142351-9",
           "file": "122.jpg",
           "blobKey": "record-14-1788561142351-9",
+          "assetPath": "media/14-06-122.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 6,
           "caption": "FIG. N—10",
           "data": {
@@ -2770,8 +2869,7 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/14-06-122.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -2779,9 +2877,11 @@
           "recordId": "record-14-1788559294934-10",
           "file": "YS_09_04_YS_Generator_2026_09_04_22_36_53.png",
           "blobKey": "record-14-1788559294934-10",
+          "assetPath": "media/14-07-YS_09_04_YS_Generator_2026_09_04_22_36_53.png",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 6,
           "caption": "FIG. N—11",
           "data": {
@@ -2792,8 +2892,7 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/14-07-YS_09_04_YS_Generator_2026_09_04_22_36_53.png"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -2801,9 +2900,11 @@
           "recordId": "record-14-1788559237577-7",
           "file": "star-space-dublicated.jpg",
           "blobKey": "record-14-1788559237577-7",
+          "assetPath": "media/14-08-star-space-dublicated.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 3,
           "caption": "FIG. N—08",
           "data": {
@@ -2814,8 +2915,7 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/14-08-star-space-dublicated.jpg"
+          "referenceImages": []
         },
         {
           "type": "image",
@@ -2823,9 +2923,11 @@
           "recordId": "record-14-1788559244671-8",
           "file": "star-space-round.jpg",
           "blobKey": "record-14-1788559244671-8",
+          "assetPath": "media/14-09-star-space-round.jpg",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
+          "posterAssetPath": "",
           "rowWidth": 3,
           "caption": "FIG. N—09",
           "data": {
@@ -2836,8 +2938,7 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": [],
-          "assetPath": "media/14-09-star-space-round.jpg"
+          "referenceImages": []
         }
       ]
     }
