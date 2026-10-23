@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "exportedAt": "2026-09-04T23:54:45.826Z",
+  "exportedAt": "2026-10-23T00:00:00.000Z",
   "settings": {
     "pageColor": "#e0e5e5",
     "sheetColor": "#eaf0f0",
@@ -449,7 +449,7 @@
           "recordId": "record-01-1788474824252-1",
           "file": "Weixin Image_20260903122136_171_1.jpg",
           "blobKey": "record-01-1788474824252-1",
-          "assetPath": "media/01-01-Weixin-Image_20260903122136_171_1.jpg",
+          "assetPath": "media/optimized/01-01-Weixin-Image_20260903122136_171_1-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -464,7 +464,10 @@
             "software": "Blender, Nomad",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/01-01-Weixin-Image_20260903122136_171_1-sm.webp 800w, media/optimized/01-01-Weixin-Image_20260903122136_171_1-lg.webp 1920w",
+          "assetWidth": 1920,
+          "assetHeight": 1080
         },
         {
           "type": "image",
@@ -472,7 +475,7 @@
           "recordId": "record-01-1788475499422-2",
           "file": "mermaid 1.jpg",
           "blobKey": "record-01-1788475499422-2",
-          "assetPath": "media/01-02-mermaid-1.jpg",
+          "assetPath": "media/optimized/01-02-mermaid-1-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -487,7 +490,10 @@
             "software": "Blender, Nomad",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/01-02-mermaid-1-sm.webp 800w, media/optimized/01-02-mermaid-1-lg.webp 1920w",
+          "assetWidth": 1920,
+          "assetHeight": 1080
         },
         {
           "type": "image",
@@ -495,7 +501,7 @@
           "recordId": "record-01-1788475604145-3",
           "file": "Weixin Image_20260902231453_161_1.jpg",
           "blobKey": "record-01-1788475604145-3",
-          "assetPath": "media/01-03-Weixin-Image_20260902231453_161_1.jpg",
+          "assetPath": "media/optimized/01-03-Weixin-Image_20260902231453_161_1-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -510,7 +516,10 @@
             "software": "Blender, Nomad",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/01-03-Weixin-Image_20260902231453_161_1-sm.webp 800w, media/optimized/01-03-Weixin-Image_20260902231453_161_1-lg.webp 1920w",
+          "assetWidth": 1920,
+          "assetHeight": 1080
         },
         {
           "type": "image",
@@ -518,7 +527,7 @@
           "recordId": "record-01-1788475685805-6",
           "file": "Weixin Image_20260902231448_158_1.jpg",
           "blobKey": "record-01-1788475685805-6",
-          "assetPath": "media/01-04-Weixin-Image_20260902231448_158_1.jpg",
+          "assetPath": "media/optimized/01-04-Weixin-Image_20260902231448_158_1-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -533,7 +542,10 @@
             "software": "Blender, Nomad",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/01-04-Weixin-Image_20260902231448_158_1-sm.webp 800w, media/optimized/01-04-Weixin-Image_20260902231448_158_1-lg.webp 1920w",
+          "assetWidth": 1920,
+          "assetHeight": 1080
         },
         {
           "type": "image",
@@ -541,7 +553,7 @@
           "recordId": "record-01-1788475630554-4",
           "file": "Weixin Image_20260902231449_159_1.jpg",
           "blobKey": "record-01-1788475630554-4",
-          "assetPath": "media/01-05-Weixin-Image_20260902231449_159_1.jpg",
+          "assetPath": "media/optimized/01-05-Weixin-Image_20260902231449_159_1-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -556,7 +568,10 @@
             "software": "Blender, Nomad",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/01-05-Weixin-Image_20260902231449_159_1-sm.webp 800w, media/optimized/01-05-Weixin-Image_20260902231449_159_1-lg.webp 1920w",
+          "assetWidth": 1920,
+          "assetHeight": 1080
         },
         {
           "type": "image",
@@ -564,7 +579,7 @@
           "recordId": "record-01-1788475664654-5",
           "file": "Weixin Image_20260902231454_162_1.jpg",
           "blobKey": "record-01-1788475664654-5",
-          "assetPath": "media/01-06-Weixin-Image_20260902231454_162_1.jpg",
+          "assetPath": "media/optimized/01-06-Weixin-Image_20260902231454_162_1-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -579,7 +594,10 @@
             "software": "Blender, Nomad",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/01-06-Weixin-Image_20260902231454_162_1-sm.webp 800w, media/optimized/01-06-Weixin-Image_20260902231454_162_1-lg.webp 1919w",
+          "assetWidth": 1919,
+          "assetHeight": 1079
         },
         {
           "type": "image",
@@ -587,7 +605,7 @@
           "recordId": "record-01-1788475867603-7",
           "file": "WeChat-Image_20240616210944.jpg",
           "blobKey": "record-01-1788475867603-7",
-          "assetPath": "media/01-07-WeChat-Image_20240616210944.jpg",
+          "assetPath": "media/optimized/01-07-WeChat-Image_20240616210944-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -602,7 +620,10 @@
             "software": "Nomad",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/01-07-WeChat-Image_20240616210944-sm.webp 566w, media/optimized/01-07-WeChat-Image_20240616210944-lg.webp 1358w",
+          "assetWidth": 1358,
+          "assetHeight": 1920
         },
         {
           "type": "image",
@@ -610,7 +631,7 @@
           "recordId": "record-01-1788476017326-8",
           "file": "moon.jpg",
           "blobKey": "record-01-1788476017326-8",
-          "assetPath": "media/01-08-moon.jpg",
+          "assetPath": "media/optimized/01-08-moon-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -625,7 +646,10 @@
             "software": "Nomad, Procreate",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/01-08-moon-sm.webp 556w, media/optimized/01-08-moon-lg.webp 1080w",
+          "assetWidth": 1080,
+          "assetHeight": 1554
         },
         {
           "type": "image",
@@ -633,7 +657,7 @@
           "recordId": "record-01-1788476184608-11",
           "file": "WeChat-Image_20240617002355.jpg",
           "blobKey": "record-01-1788476184608-11",
-          "assetPath": "media/01-09-WeChat-Image_20240617002355.jpg",
+          "assetPath": "media/optimized/01-09-WeChat-Image_20240617002355-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -648,7 +672,10 @@
             "software": "Nomad",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/01-09-WeChat-Image_20240617002355-sm.webp 800w, media/optimized/01-09-WeChat-Image_20240617002355-lg.webp 1500w",
+          "assetWidth": 1500,
+          "assetHeight": 1500
         },
         {
           "type": "image",
@@ -656,7 +683,7 @@
           "recordId": "record-01-1788476192587-12",
           "file": "2.jpg",
           "blobKey": "record-01-1788476192587-12",
-          "assetPath": "media/01-10-2.jpg",
+          "assetPath": "media/optimized/01-10-2-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -671,7 +698,10 @@
             "software": "Procreate",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/01-10-2-sm.webp 566w, media/optimized/01-10-2-lg.webp 1358w",
+          "assetWidth": 1358,
+          "assetHeight": 1920
         },
         {
           "type": "image",
@@ -679,7 +709,7 @@
           "recordId": "record-01-1788476169259-9",
           "file": "3.jpg",
           "blobKey": "record-01-1788476169259-9",
-          "assetPath": "media/01-11-3.jpg",
+          "assetPath": "media/optimized/01-11-3-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -694,7 +724,10 @@
             "software": "Nomad",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/01-11-3-sm.webp 800w, media/optimized/01-11-3-lg.webp 900w",
+          "assetWidth": 900,
+          "assetHeight": 746
         },
         {
           "type": "image",
@@ -702,7 +735,7 @@
           "recordId": "record-01-1788476174690-10",
           "file": "Screenshot-2025-07-18-135402.png",
           "blobKey": "record-01-1788476174690-10",
-          "assetPath": "media/01-12-Screenshot-2025-07-18-135402.png",
+          "assetPath": "media/optimized/01-12-Screenshot-2025-07-18-135402-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -717,7 +750,10 @@
             "software": "Nomad",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/01-12-Screenshot-2025-07-18-135402-sm.webp 800w, media/optimized/01-12-Screenshot-2025-07-18-135402-lg.webp 1099w",
+          "assetWidth": 1099,
+          "assetHeight": 511
         }
       ]
     },
@@ -740,7 +776,7 @@
           "recordId": "record-02-1788544790029-5",
           "file": "Weixin Image_20260903104835_169_1.jpg",
           "blobKey": "record-02-1788544790029-5",
-          "assetPath": "media/02-01-Weixin-Image_20260903104835_169_1.jpg",
+          "assetPath": "media/optimized/02-01-Weixin-Image_20260903104835_169_1-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -755,7 +791,10 @@
             "software": "Blender, Nomad, cloudcb.me",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/02-01-Weixin-Image_20260903104835_169_1-sm.webp 800w, media/optimized/02-01-Weixin-Image_20260903104835_169_1-lg.webp 1920w",
+          "assetWidth": 1920,
+          "assetHeight": 1081
         },
         {
           "type": "image",
@@ -763,7 +802,7 @@
           "recordId": "record-02-1788519573205-0",
           "file": "6.jpg",
           "blobKey": "record-02-1788519573205-0",
-          "assetPath": "media/02-02-6.jpg",
+          "assetPath": "media/optimized/02-02-6-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -778,7 +817,10 @@
             "software": "Nomad, Procreate",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/02-02-6-sm.webp 800w, media/optimized/02-02-6-lg.webp 1811w",
+          "assetWidth": 1811,
+          "assetHeight": 1499
         },
         {
           "type": "image",
@@ -786,7 +828,7 @@
           "recordId": "record-02-1788519595355-1",
           "file": "WeChat-Image_20240617203250.jpg",
           "blobKey": "record-02-1788519595355-1",
-          "assetPath": "media/02-03-WeChat-Image_20240617203250.jpg",
+          "assetPath": "media/optimized/02-03-WeChat-Image_20240617203250-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -801,7 +843,10 @@
             "software": "Blender， Nomad",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/02-03-WeChat-Image_20240617203250-sm.webp 743w, media/optimized/02-03-WeChat-Image_20240617203250-lg.webp 1080w",
+          "assetWidth": 1080,
+          "assetHeight": 1163
         },
         {
           "type": "image",
@@ -809,7 +854,7 @@
           "recordId": "record-02-1788519875408-2",
           "file": "8.jpg",
           "blobKey": "record-02-1788519875408-2",
-          "assetPath": "media/02-04-8.jpg",
+          "assetPath": "media/optimized/02-04-8-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -824,7 +869,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/02-04-8-sm.webp 532w, media/optimized/02-04-8-lg.webp 998w",
+          "assetWidth": 998,
+          "assetHeight": 1500
         },
         {
           "type": "image",
@@ -832,7 +880,7 @@
           "recordId": "record-02-1788519903907-3",
           "file": "WeChat-Image_20240617213528.jpg",
           "blobKey": "record-02-1788519903907-3",
-          "assetPath": "media/02-05-WeChat-Image_20240617213528.jpg",
+          "assetPath": "media/optimized/02-05-WeChat-Image_20240617213528-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -847,7 +895,10 @@
             "software": "PROCREATE",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/02-05-WeChat-Image_20240617213528-sm.webp 527w, media/optimized/02-05-WeChat-Image_20240617213528-lg.webp 988w",
+          "assetWidth": 988,
+          "assetHeight": 1499
         },
         {
           "type": "image",
@@ -855,7 +906,7 @@
           "recordId": "record-02-1788519982292-4",
           "file": "WeChat-Image_20240617222538.jpg",
           "blobKey": "record-02-1788519982292-4",
-          "assetPath": "media/02-06-WeChat-Image_20240617222538.jpg",
+          "assetPath": "media/optimized/02-06-WeChat-Image_20240617222538-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -870,7 +921,10 @@
             "software": "",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/02-06-WeChat-Image_20240617222538-sm.webp 661w, media/optimized/02-06-WeChat-Image_20240617222538-lg.webp 1239w",
+          "assetWidth": 1239,
+          "assetHeight": 1500
         }
       ]
     },
@@ -893,7 +947,7 @@
           "recordId": "record-03-1788521798701-0",
           "file": "16.jpg",
           "blobKey": "record-03-1788521798701-0",
-          "assetPath": "media/03-01-16.jpg",
+          "assetPath": "media/optimized/03-01-16-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -908,7 +962,10 @@
             "software": "PS",
             "notes": "In 1954, biologist F.A. Brown moved oysters from Connecticut to a basement aquarium in Chicago. For two weeks, their behaviour was normal. Then, they began following a mysterious rhythm, unrelated to any known tides. Despite being far from the sea, these oysters seemed to carry an innate connection to it, demonstrating their deep-rooted, ancestral link to the ocean."
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/03-01-16-sm.webp 516w, media/optimized/03-01-16-lg.webp 968w",
+          "assetWidth": 968,
+          "assetHeight": 1500
         },
         {
           "type": "image",
@@ -916,7 +973,7 @@
           "recordId": "record-03-1788521811073-1",
           "file": "WeChat-Image_20240618002826.jpg",
           "blobKey": "record-03-1788521811073-1",
-          "assetPath": "media/03-02-WeChat-Image_20240618002826.jpg",
+          "assetPath": "media/optimized/03-02-WeChat-Image_20240618002826-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -931,7 +988,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/03-02-WeChat-Image_20240618002826-sm.webp 640w, media/optimized/03-02-WeChat-Image_20240618002826-lg.webp 1440w",
+          "assetWidth": 1440,
+          "assetHeight": 1800
         },
         {
           "type": "image",
@@ -939,7 +999,7 @@
           "recordId": "record-03-1788521818446-2",
           "file": "17.jpg",
           "blobKey": "record-03-1788521818446-2",
-          "assetPath": "media/03-03-17.jpg",
+          "assetPath": "media/optimized/03-03-17-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -954,7 +1014,10 @@
             "software": "Nomad, procreate",
             "notes": "Like someone hiding a letter in their coat — not reading it in public, but touching the pocket again and again to feel its presence.\n\n"
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/03-03-17-sm.webp 592w, media/optimized/03-03-17-lg.webp 1110w",
+          "assetWidth": 1110,
+          "assetHeight": 1500
         },
         {
           "type": "image",
@@ -962,7 +1025,7 @@
           "recordId": "record-03-1788521838901-4",
           "file": "15.jpg",
           "blobKey": "record-03-1788521838901-4",
-          "assetPath": "media/03-04-15.jpg",
+          "assetPath": "media/optimized/03-04-15-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -977,7 +1040,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/03-04-15-sm.webp 800w, media/optimized/03-04-15-lg.webp 1873w",
+          "assetWidth": 1873,
+          "assetHeight": 1499
         },
         {
           "type": "image",
@@ -985,7 +1051,7 @@
           "recordId": "record-03-1788521832512-3",
           "file": "14.jpg",
           "blobKey": "record-03-1788521832512-3",
-          "assetPath": "media/03-05-14.jpg",
+          "assetPath": "media/optimized/03-05-14-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -1000,7 +1066,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/03-05-14-sm.webp 533w, media/optimized/03-05-14-lg.webp 1184w",
+          "assetWidth": 1184,
+          "assetHeight": 1776
         },
         {
           "type": "image",
@@ -1008,7 +1077,7 @@
           "recordId": "record-03-1788558950478-8",
           "file": "YS_09_04_YS_Generator_2026_09_04_22_32_06.png",
           "blobKey": "record-03-1788558950478-8",
-          "assetPath": "media/03-06-YS_09_04_YS_Generator_2026_09_04_22_32_06.png",
+          "assetPath": "media/optimized/03-06-YS_09_04_YS_Generator_2026_09_04_22_32_06-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -1023,7 +1092,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/03-06-YS_09_04_YS_Generator_2026_09_04_22_32_06-sm.webp 600w, media/optimized/03-06-YS_09_04_YS_Generator_2026_09_04_22_32_06-lg.webp 1200w",
+          "assetWidth": 1200,
+          "assetHeight": 1600
         },
         {
           "type": "image",
@@ -1031,7 +1103,7 @@
           "recordId": "record-03-1788558961650-9",
           "file": "YS_09_04_YS_Generator_2026_09_04_22_30_44.png",
           "blobKey": "record-03-1788558961650-9",
-          "assetPath": "media/03-07-YS_09_04_YS_Generator_2026_09_04_22_30_44.png",
+          "assetPath": "media/optimized/03-07-YS_09_04_YS_Generator_2026_09_04_22_30_44-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -1046,7 +1118,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/03-07-YS_09_04_YS_Generator_2026_09_04_22_30_44-sm.webp 600w, media/optimized/03-07-YS_09_04_YS_Generator_2026_09_04_22_30_44-lg.webp 1200w",
+          "assetWidth": 1200,
+          "assetHeight": 1600
         },
         {
           "type": "image",
@@ -1054,7 +1129,7 @@
           "recordId": "record-03-1788522807042-7",
           "file": "WeChat-Image_20240618015631.jpg",
           "blobKey": "record-03-1788522807042-7",
-          "assetPath": "media/03-08-WeChat-Image_20240618015631.jpg",
+          "assetPath": "media/optimized/03-08-WeChat-Image_20240618015631-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -1069,7 +1144,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/03-08-WeChat-Image_20240618015631-sm.webp 800w, media/optimized/03-08-WeChat-Image_20240618015631-lg.webp 800w",
+          "assetWidth": 800,
+          "assetHeight": 800
         }
       ]
     },
@@ -1092,7 +1170,7 @@
           "recordId": "record-04-1788523741090-0",
           "file": "WeChat-Image_20240618110430.jpg",
           "blobKey": "record-04-1788523741090-0",
-          "assetPath": "media/04-01-WeChat-Image_20240618110430.jpg",
+          "assetPath": "media/optimized/04-01-WeChat-Image_20240618110430-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -1107,7 +1185,10 @@
             "software": "",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/04-01-WeChat-Image_20240618110430-sm.webp 515w, media/optimized/04-01-WeChat-Image_20240618110430-lg.webp 966w",
+          "assetWidth": 966,
+          "assetHeight": 1500
         },
         {
           "type": "image",
@@ -1115,7 +1196,7 @@
           "recordId": "record-04-1788523982229-1",
           "file": "mer-side.jpg",
           "blobKey": "record-04-1788523982229-1",
-          "assetPath": "media/04-02-mer-side.jpg",
+          "assetPath": "media/optimized/04-02-mer-side-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -1130,7 +1211,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/04-02-mer-side-sm.webp 519w, media/optimized/04-02-mer-side-lg.webp 973w",
+          "assetWidth": 973,
+          "assetHeight": 1499
         },
         {
           "type": "image",
@@ -1138,7 +1222,7 @@
           "recordId": "record-04-1788524046449-5",
           "file": "mermaid-close.jpg",
           "blobKey": "record-04-1788524046449-5",
-          "assetPath": "media/04-03-mermaid-close.jpg",
+          "assetPath": "media/optimized/04-03-mermaid-close-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -1153,7 +1237,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/04-03-mermaid-close-sm.webp 600w, media/optimized/04-03-mermaid-close-lg.webp 955w",
+          "assetWidth": 955,
+          "assetHeight": 1274
         },
         {
           "type": "image",
@@ -1161,7 +1248,7 @@
           "recordId": "record-04-1788524012936-2",
           "file": "WeChat-Image_20240620232921.jpg",
           "blobKey": "record-04-1788524012936-2",
-          "assetPath": "media/04-04-WeChat-Image_20240620232921.jpg",
+          "assetPath": "media/optimized/04-04-WeChat-Image_20240620232921-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -1176,7 +1263,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/04-04-WeChat-Image_20240620232921-sm.webp 566w, media/optimized/04-04-WeChat-Image_20240620232921-lg.webp 1061w",
+          "assetWidth": 1061,
+          "assetHeight": 1499
         },
         {
           "type": "image",
@@ -1184,7 +1274,7 @@
           "recordId": "record-04-1788524020917-3",
           "file": "Weixin-Image_2025-07-18_160818_750.jpg",
           "blobKey": "record-04-1788524020917-3",
-          "assetPath": "media/04-05-Weixin-Image_2025-07-18_160818_750.jpg",
+          "assetPath": "media/optimized/04-05-Weixin-Image_2025-07-18_160818_750-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -1199,7 +1289,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/04-05-Weixin-Image_2025-07-18_160818_750-sm.webp 800w, media/optimized/04-05-Weixin-Image_2025-07-18_160818_750-lg.webp 1492w",
+          "assetWidth": 1492,
+          "assetHeight": 721
         },
         {
           "type": "image",
@@ -1207,7 +1300,7 @@
           "recordId": "record-04-1788524029775-4",
           "file": "merimaid-print.jpg",
           "blobKey": "record-04-1788524029775-4",
-          "assetPath": "media/04-06-merimaid-print.jpg",
+          "assetPath": "media/optimized/04-06-merimaid-print-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -1222,7 +1315,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/04-06-merimaid-print-sm.webp 800w, media/optimized/04-06-merimaid-print-lg.webp 1920w",
+          "assetWidth": 1920,
+          "assetHeight": 1426
         }
       ]
     },
@@ -1245,7 +1341,7 @@
           "recordId": "record-05-1788532849380-1",
           "file": "Weixin-Image_20260313114724_2410_4.jpg",
           "blobKey": "record-05-1788532849380-1",
-          "assetPath": "media/05-01-Weixin-Image_20260313114724_2410_4.jpg",
+          "assetPath": "media/optimized/05-01-Weixin-Image_20260313114724_2410_4-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -1260,7 +1356,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/05-01-Weixin-Image_20260313114724_2410_4-sm.webp 800w, media/optimized/05-01-Weixin-Image_20260313114724_2410_4-lg.webp 1680w",
+          "assetWidth": 1680,
+          "assetHeight": 1035
         },
         {
           "type": "video",
@@ -1272,11 +1371,14 @@
           "videoUrl": "https://youtu.be/uxOSOYphb9U",
           "posterBlobKey": "video-05-01-poster",
           "posterFileName": "Weixin-Image_20260313114723_2409_4.jpg",
-          "posterAssetPath": "media/05-video-02-cover-Weixin-Image_20260313114723_2409_4.jpg",
+          "posterAssetPath": "media/optimized/05-video-02-cover-Weixin-Image_20260313114723_2409_4-lg.webp",
           "rowWidth": 6,
           "caption": "MOVING IMAGE E—01",
           "data": null,
-          "referenceImages": []
+          "referenceImages": [],
+          "posterSrcset": "media/optimized/05-video-02-cover-Weixin-Image_20260313114723_2409_4-sm.webp 800w, media/optimized/05-video-02-cover-Weixin-Image_20260313114723_2409_4-lg.webp 1732w",
+          "posterWidth": 1732,
+          "posterHeight": 978
         },
         {
           "type": "image",
@@ -1284,7 +1386,7 @@
           "recordId": "record-05-1788532908781-2",
           "file": "Weixin-Image_20260313114721_2408_4.jpg",
           "blobKey": "record-05-1788532908781-2",
-          "assetPath": "media/05-03-Weixin-Image_20260313114721_2408_4.jpg",
+          "assetPath": "media/optimized/05-03-Weixin-Image_20260313114721_2408_4-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -1299,7 +1401,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/05-03-Weixin-Image_20260313114721_2408_4-sm.webp 800w, media/optimized/05-03-Weixin-Image_20260313114721_2408_4-lg.webp 1816w",
+          "assetWidth": 1816,
+          "assetHeight": 964
         },
         {
           "type": "image",
@@ -1307,7 +1412,7 @@
           "recordId": "record-05-1788532948165-4",
           "file": "Weixin-Image_20260313114732_2415_4.jpg",
           "blobKey": "record-05-1788532948165-4",
-          "assetPath": "media/05-04-Weixin-Image_20260313114732_2415_4.jpg",
+          "assetPath": "media/optimized/05-04-Weixin-Image_20260313114732_2415_4-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -1322,7 +1427,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/05-04-Weixin-Image_20260313114732_2415_4-sm.webp 800w, media/optimized/05-04-Weixin-Image_20260313114732_2415_4-lg.webp 1425w",
+          "assetWidth": 1425,
+          "assetHeight": 1018
         },
         {
           "type": "image",
@@ -1330,7 +1438,7 @@
           "recordId": "record-05-1788532948165-3",
           "file": "Weixin-Image_20260313114731_2414_4.jpg",
           "blobKey": "record-05-1788532948165-3",
-          "assetPath": "media/05-05-Weixin-Image_20260313114731_2414_4.jpg",
+          "assetPath": "media/optimized/05-05-Weixin-Image_20260313114731_2414_4-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -1345,7 +1453,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/05-05-Weixin-Image_20260313114731_2414_4-sm.webp 800w, media/optimized/05-05-Weixin-Image_20260313114731_2414_4-lg.webp 1407w",
+          "assetWidth": 1407,
+          "assetHeight": 1005
         },
         {
           "type": "image",
@@ -1353,7 +1464,7 @@
           "recordId": "record-05-1788532948166-5",
           "file": "Weixin-Image_20260313123549_2418_4.jpg",
           "blobKey": "record-05-1788532948166-5",
-          "assetPath": "media/05-06-Weixin-Image_20260313123549_2418_4.jpg",
+          "assetPath": "media/optimized/05-06-Weixin-Image_20260313123549_2418_4-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -1368,7 +1479,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/05-06-Weixin-Image_20260313123549_2418_4-sm.webp 800w, media/optimized/05-06-Weixin-Image_20260313123549_2418_4-lg.webp 1849w",
+          "assetWidth": 1849,
+          "assetHeight": 1048
         },
         {
           "type": "image",
@@ -1376,7 +1490,7 @@
           "recordId": "record-05-1788533010603-6",
           "file": "Weixin-Image_20260313114726_2411_4.jpg",
           "blobKey": "record-05-1788533010603-6",
-          "assetPath": "media/05-07-Weixin-Image_20260313114726_2411_4.jpg",
+          "assetPath": "media/optimized/05-07-Weixin-Image_20260313114726_2411_4-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -1391,7 +1505,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/05-07-Weixin-Image_20260313114726_2411_4-sm.webp 800w, media/optimized/05-07-Weixin-Image_20260313114726_2411_4-lg.webp 1196w",
+          "assetWidth": 1196,
+          "assetHeight": 854
         },
         {
           "type": "image",
@@ -1399,7 +1516,7 @@
           "recordId": "record-05-1788533010604-7",
           "file": "Weixin-Image_20260313114727_2412_4.jpg",
           "blobKey": "record-05-1788533010604-7",
-          "assetPath": "media/05-08-Weixin-Image_20260313114727_2412_4.jpg",
+          "assetPath": "media/optimized/05-08-Weixin-Image_20260313114727_2412_4-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -1414,7 +1531,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/05-08-Weixin-Image_20260313114727_2412_4-sm.webp 800w, media/optimized/05-08-Weixin-Image_20260313114727_2412_4-lg.webp 1686w",
+          "assetWidth": 1686,
+          "assetHeight": 975
         }
       ]
     },
@@ -1437,7 +1557,7 @@
           "recordId": "record-06-1788536134559-0",
           "file": "cyber-dragonnfly.png",
           "blobKey": "record-06-1788536134559-0",
-          "assetPath": "media/06-01-cyber-dragonnfly.png",
+          "assetPath": "media/optimized/06-01-cyber-dragonnfly-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -1452,7 +1572,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/06-01-cyber-dragonnfly-sm.webp 800w, media/optimized/06-01-cyber-dragonnfly-lg.webp 1920w",
+          "assetWidth": 1920,
+          "assetHeight": 803
         },
         {
           "type": "image",
@@ -1460,7 +1583,7 @@
           "recordId": "record-06-1788536148739-1",
           "file": "cyber-dragonfly.png",
           "blobKey": "record-06-1788536148739-1",
-          "assetPath": "media/06-02-cyber-dragonfly.png",
+          "assetPath": "media/optimized/06-02-cyber-dragonfly-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -1475,7 +1598,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/06-02-cyber-dragonfly-sm.webp 800w, media/optimized/06-02-cyber-dragonfly-lg.webp 1920w",
+          "assetWidth": 1920,
+          "assetHeight": 803
         },
         {
           "type": "image",
@@ -1483,7 +1609,7 @@
           "recordId": "record-06-1788536345036-2",
           "file": "fradgile-heart.jpg",
           "blobKey": "record-06-1788536345036-2",
-          "assetPath": "media/06-03-fradgile-heart.jpg",
+          "assetPath": "media/optimized/06-03-fradgile-heart-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -1498,7 +1624,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/06-03-fradgile-heart-sm.webp 600w, media/optimized/06-03-fradgile-heart-lg.webp 1080w",
+          "assetWidth": 1080,
+          "assetHeight": 1440
         },
         {
           "type": "image",
@@ -1506,7 +1635,7 @@
           "recordId": "record-06-1788536369923-3",
           "file": "batterssea.jpg",
           "blobKey": "record-06-1788536369923-3",
-          "assetPath": "media/06-04-batterssea.jpg",
+          "assetPath": "media/optimized/06-04-batterssea-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -1521,7 +1650,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/06-04-batterssea-sm.webp 642w, media/optimized/06-04-batterssea-lg.webp 891w",
+          "assetWidth": 891,
+          "assetHeight": 1111
         }
       ]
     },
@@ -1544,7 +1676,7 @@
           "recordId": "record-07-1788541319757-0",
           "file": "blood.jpg",
           "blobKey": "record-07-1788541319757-0",
-          "assetPath": "media/07-01-blood.jpg",
+          "assetPath": "media/optimized/07-01-blood-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -1559,7 +1691,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/07-01-blood-sm.webp 800w, media/optimized/07-01-blood-lg.webp 1280w",
+          "assetWidth": 1280,
+          "assetHeight": 1011
         },
         {
           "type": "image",
@@ -1567,7 +1702,7 @@
           "recordId": "record-07-1788541333741-1",
           "file": "spring.jpg",
           "blobKey": "record-07-1788541333741-1",
-          "assetPath": "media/07-02-spring.jpg",
+          "assetPath": "media/optimized/07-02-spring-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -1582,7 +1717,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/07-02-spring-sm.webp 582w, media/optimized/07-02-spring-lg.webp 1397w",
+          "assetWidth": 1397,
+          "assetHeight": 1920
         },
         {
           "type": "image",
@@ -1590,7 +1728,7 @@
           "recordId": "record-07-1788541362818-3",
           "file": "grass.jpg",
           "blobKey": "record-07-1788541362818-3",
-          "assetPath": "media/07-03-grass.jpg",
+          "assetPath": "media/optimized/07-03-grass-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -1605,7 +1743,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/07-03-grass-sm.webp 515w, media/optimized/07-03-grass-lg.webp 900w",
+          "assetWidth": 900,
+          "assetHeight": 1397
         },
         {
           "type": "image",
@@ -1613,7 +1754,7 @@
           "recordId": "record-07-1788541348667-2",
           "file": "snake.jpg",
           "blobKey": "record-07-1788541348667-2",
-          "assetPath": "media/07-04-snake.jpg",
+          "assetPath": "media/optimized/07-04-snake-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -1628,7 +1769,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/07-04-snake-sm.webp 800w, media/optimized/07-04-snake-lg.webp 1571w",
+          "assetWidth": 1571,
+          "assetHeight": 1122
         }
       ]
     },
@@ -1651,7 +1795,7 @@
           "recordId": "record-08-1788544495097-0",
           "file": "breathe-front.jpg",
           "blobKey": "record-08-1788544495097-0",
-          "assetPath": "media/08-01-breathe-front.jpg",
+          "assetPath": "media/optimized/08-01-breathe-front-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -1666,7 +1810,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/08-01-breathe-front-sm.webp 605w, media/optimized/08-01-breathe-front-lg.webp 1170w",
+          "assetWidth": 1170,
+          "assetHeight": 1548
         },
         {
           "type": "image",
@@ -1674,7 +1821,7 @@
           "recordId": "record-08-1788544502052-1",
           "file": "breathe-whole.jpg",
           "blobKey": "record-08-1788544502052-1",
-          "assetPath": "media/08-02-breathe-whole.jpg",
+          "assetPath": "media/optimized/08-02-breathe-whole-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -1689,7 +1836,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/08-02-breathe-whole-sm.webp 640w, media/optimized/08-02-breathe-whole-lg.webp 1536w",
+          "assetWidth": 1536,
+          "assetHeight": 1920
         },
         {
           "type": "image",
@@ -1697,7 +1847,7 @@
           "recordId": "record-08-1788544506553-2",
           "file": "breathe-side.jpg",
           "blobKey": "record-08-1788544506553-2",
-          "assetPath": "media/08-03-breathe-side.jpg",
+          "assetPath": "media/optimized/08-03-breathe-side-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -1712,7 +1862,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/08-03-breathe-side-sm.webp 800w, media/optimized/08-03-breathe-side-lg.webp 1029w",
+          "assetWidth": 1029,
+          "assetHeight": 617
         },
         {
           "type": "image",
@@ -1720,7 +1873,7 @@
           "recordId": "record-08-1788544546707-3",
           "file": "piano-close.jpg",
           "blobKey": "record-08-1788544546707-3",
-          "assetPath": "media/08-04-piano-close.jpg",
+          "assetPath": "media/optimized/08-04-piano-close-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -1735,7 +1888,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/08-04-piano-close-sm.webp 533w, media/optimized/08-04-piano-close-lg.webp 1080w",
+          "assetWidth": 1080,
+          "assetHeight": 1620
         },
         {
           "type": "image",
@@ -1743,7 +1899,7 @@
           "recordId": "record-08-1788544562041-4",
           "file": "piano-best.jpg",
           "blobKey": "record-08-1788544562041-4",
-          "assetPath": "media/08-05-piano-best.jpg",
+          "assetPath": "media/optimized/08-05-piano-best-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -1758,7 +1914,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/08-05-piano-best-sm.webp 800w, media/optimized/08-05-piano-best-lg.webp 876w",
+          "assetWidth": 876,
+          "assetHeight": 876
         },
         {
           "type": "image",
@@ -1766,7 +1925,7 @@
           "recordId": "record-08-1788544587165-5",
           "file": "piano-room.jpg",
           "blobKey": "record-08-1788544587165-5",
-          "assetPath": "media/08-06-piano-room.jpg",
+          "assetPath": "media/optimized/08-06-piano-room-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -1781,7 +1940,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/08-06-piano-room-sm.webp 800w, media/optimized/08-06-piano-room-lg.webp 991w",
+          "assetWidth": 991,
+          "assetHeight": 684
         },
         {
           "type": "image",
@@ -1789,7 +1951,7 @@
           "recordId": "record-08-1788544606130-6",
           "file": "butterfly.jpg",
           "blobKey": "record-08-1788544606130-6",
-          "assetPath": "media/08-07-butterfly.jpg",
+          "assetPath": "media/optimized/08-07-butterfly-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -1804,7 +1966,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/08-07-butterfly-sm.webp 800w, media/optimized/08-07-butterfly-lg.webp 808w",
+          "assetWidth": 808,
+          "assetHeight": 778
         },
         {
           "type": "image",
@@ -1812,7 +1977,7 @@
           "recordId": "record-08-1788544629055-7",
           "file": "boat.jpg",
           "blobKey": "record-08-1788544629055-7",
-          "assetPath": "media/08-08-boat.jpg",
+          "assetPath": "media/optimized/08-08-boat-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -1827,7 +1992,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/08-08-boat-sm.webp 800w, media/optimized/08-08-boat-lg.webp 1000w",
+          "assetWidth": 1000,
+          "assetHeight": 562
         },
         {
           "type": "image",
@@ -1835,7 +2003,7 @@
           "recordId": "record-08-1788544640486-9",
           "file": "drip-black.jpg",
           "blobKey": "record-08-1788544640486-9",
-          "assetPath": "media/08-09-drip-black.jpg",
+          "assetPath": "media/optimized/08-09-drip-black-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -1850,7 +2018,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/08-09-drip-black-sm.webp 640w, media/optimized/08-09-drip-black-lg.webp 1184w",
+          "assetWidth": 1184,
+          "assetHeight": 1480
         },
         {
           "type": "image",
@@ -1858,7 +2029,7 @@
           "recordId": "record-08-1788544636242-8",
           "file": "drip-balck-n-w.jpg",
           "blobKey": "record-08-1788544636242-8",
-          "assetPath": "media/08-10-drip-balck-n-w.jpg",
+          "assetPath": "media/optimized/08-10-drip-balck-n-w-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -1873,7 +2044,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/08-10-drip-balck-n-w-sm.webp 640w, media/optimized/08-10-drip-balck-n-w-lg.webp 1184w",
+          "assetWidth": 1184,
+          "assetHeight": 1480
         }
       ]
     },
@@ -1896,7 +2070,7 @@
           "recordId": "record-09-1788545869725-0",
           "file": "drip-best.jpg",
           "blobKey": "record-09-1788545869725-0",
-          "assetPath": "media/09-01-drip-best.jpg",
+          "assetPath": "media/optimized/09-01-drip-best-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -1911,7 +2085,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/09-01-drip-best-sm.webp 533w, media/optimized/09-01-drip-best-lg.webp 888w",
+          "assetWidth": 888,
+          "assetHeight": 1332
         },
         {
           "type": "image",
@@ -1919,7 +2096,7 @@
           "recordId": "record-09-1788545880138-1",
           "file": "drip-vibe.jpg",
           "blobKey": "record-09-1788545880138-1",
-          "assetPath": "media/09-02-drip-vibe.jpg",
+          "assetPath": "media/optimized/09-02-drip-vibe-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -1934,7 +2111,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/09-02-drip-vibe-sm.webp 533w, media/optimized/09-02-drip-vibe-lg.webp 1184w",
+          "assetWidth": 1184,
+          "assetHeight": 1776
         },
         {
           "type": "image",
@@ -1942,7 +2122,7 @@
           "recordId": "record-09-1788545940719-4",
           "file": "star-war-front.jpg",
           "blobKey": "record-09-1788545940719-4",
-          "assetPath": "media/09-03-star-war-front.jpg",
+          "assetPath": "media/optimized/09-03-star-war-front-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -1957,7 +2137,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/09-03-star-war-front-sm.webp 640w, media/optimized/09-03-star-war-front-lg.webp 1047w",
+          "assetWidth": 1047,
+          "assetHeight": 1309
         },
         {
           "type": "image",
@@ -1965,7 +2148,7 @@
           "recordId": "record-09-1788545908878-2",
           "file": "drip-far.jpg",
           "blobKey": "record-09-1788545908878-2",
-          "assetPath": "media/09-04-drip-far.jpg",
+          "assetPath": "media/optimized/09-04-drip-far-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -1980,7 +2163,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/09-04-drip-far-sm.webp 534w, media/optimized/09-04-drip-far-lg.webp 851w",
+          "assetWidth": 851,
+          "assetHeight": 1276
         },
         {
           "type": "image",
@@ -1988,7 +2174,7 @@
           "recordId": "record-09-1788545950408-5",
           "file": "star-war-bag.jpg",
           "blobKey": "record-09-1788545950408-5",
-          "assetPath": "media/09-05-star-war-bag.jpg",
+          "assetPath": "media/optimized/09-05-star-war-bag-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -2003,7 +2189,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/09-05-star-war-bag-sm.webp 800w, media/optimized/09-05-star-war-bag-lg.webp 1125w",
+          "assetWidth": 1125,
+          "assetHeight": 1125
         },
         {
           "type": "image",
@@ -2011,7 +2200,7 @@
           "recordId": "record-09-1788545924437-3",
           "file": "star-war-close.jpg",
           "blobKey": "record-09-1788545924437-3",
-          "assetPath": "media/09-06-star-war-close.jpg",
+          "assetPath": "media/optimized/09-06-star-war-close-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -2026,7 +2215,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/09-06-star-war-close-sm.webp 800w, media/optimized/09-06-star-war-close-lg.webp 1024w",
+          "assetWidth": 1024,
+          "assetHeight": 820
         }
       ]
     },
@@ -2049,7 +2241,7 @@
           "recordId": "record-10-1788547946464-1",
           "file": "dragonfly-silver.jpg",
           "blobKey": "record-10-1788547946464-1",
-          "assetPath": "media/10-01-dragonfly-silver.jpg",
+          "assetPath": "media/optimized/10-01-dragonfly-silver-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -2064,7 +2256,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/10-01-dragonfly-silver-sm.webp 582w, media/optimized/10-01-dragonfly-silver-lg.webp 1170w",
+          "assetWidth": 1170,
+          "assetHeight": 1609
         },
         {
           "type": "image",
@@ -2072,7 +2267,7 @@
           "recordId": "record-10-1788547946465-2",
           "file": "dragonfly-silver-pattern (1).jpg",
           "blobKey": "record-10-1788547946465-2",
-          "assetPath": "media/10-02-dragonfly-silver-pattern-1-.jpg",
+          "assetPath": "media/optimized/10-02-dragonfly-silver-pattern-1-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -2087,7 +2282,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/10-02-dragonfly-silver-pattern-1-sm.webp 480w, media/optimized/10-02-dragonfly-silver-pattern-1-lg.webp 1153w",
+          "assetWidth": 1153,
+          "assetHeight": 1920
         },
         {
           "type": "image",
@@ -2095,7 +2293,7 @@
           "recordId": "record-10-1788547946464-0",
           "file": "archi.jpg",
           "blobKey": "record-10-1788547946464-0",
-          "assetPath": "media/10-03-archi.jpg",
+          "assetPath": "media/optimized/10-03-archi-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -2110,7 +2308,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/10-03-archi-sm.webp 453w, media/optimized/10-03-archi-lg.webp 1087w",
+          "assetWidth": 1087,
+          "assetHeight": 1920
         },
         {
           "type": "image",
@@ -2118,7 +2319,7 @@
           "recordId": "record-10-1788547946465-3",
           "file": "shaol.jpg",
           "blobKey": "record-10-1788547946465-3",
-          "assetPath": "media/10-04-shaol.jpg",
+          "assetPath": "media/optimized/10-04-shaol-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -2133,7 +2334,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/10-04-shaol-sm.webp 617w, media/optimized/10-04-shaol-lg.webp 617w",
+          "assetWidth": 617,
+          "assetHeight": 625
         },
         {
           "type": "image",
@@ -2141,7 +2345,7 @@
           "recordId": "record-10-1788547946465-5",
           "file": "turning-pattern.jpg",
           "blobKey": "record-10-1788547946465-5",
-          "assetPath": "media/10-05-turning-pattern.jpg",
+          "assetPath": "media/optimized/10-05-turning-pattern-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -2156,7 +2360,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/10-05-turning-pattern-sm.webp 600w, media/optimized/10-05-turning-pattern-lg.webp 1080w",
+          "assetWidth": 1080,
+          "assetHeight": 1440
         },
         {
           "type": "image",
@@ -2164,7 +2371,7 @@
           "recordId": "record-10-1788547946465-4",
           "file": "train.jpg",
           "blobKey": "record-10-1788547946465-4",
-          "assetPath": "media/10-06-train.jpg",
+          "assetPath": "media/optimized/10-06-train-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -2179,7 +2386,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": "“A train pierces through my ribs, and I thought I could see it once again.”"
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/10-06-train-sm.webp 625w, media/optimized/10-06-train-lg.webp 894w",
+          "assetWidth": 894,
+          "assetHeight": 1145
         },
         {
           "type": "image",
@@ -2187,7 +2397,7 @@
           "recordId": "record-10-1788547946465-6",
           "file": "wall-light.png",
           "blobKey": "record-10-1788547946465-6",
-          "assetPath": "media/10-07-wall-light.png",
+          "assetPath": "media/optimized/10-07-wall-light-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -2202,7 +2412,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/10-07-wall-light-sm.webp 765w, media/optimized/10-07-wall-light-lg.webp 1100w",
+          "assetWidth": 1100,
+          "assetHeight": 1150
         }
       ]
     },
@@ -2225,7 +2438,7 @@
           "recordId": "record-11-1788550118766-6",
           "file": "guitar-cd.jpg",
           "blobKey": "record-11-1788550118766-6",
-          "assetPath": "media/11-01-guitar-cd.jpg",
+          "assetPath": "media/optimized/11-01-guitar-cd-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -2240,7 +2453,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/11-01-guitar-cd-sm.webp 800w, media/optimized/11-01-guitar-cd-lg.webp 1499w",
+          "assetWidth": 1499,
+          "assetHeight": 967
         },
         {
           "type": "image",
@@ -2248,7 +2464,7 @@
           "recordId": "record-11-1788550118766-5",
           "file": "guitar-blakc-background.jpg",
           "blobKey": "record-11-1788550118766-5",
-          "assetPath": "media/11-02-guitar-blakc-background.jpg",
+          "assetPath": "media/optimized/11-02-guitar-blakc-background-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -2263,7 +2479,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/11-02-guitar-blakc-background-sm.webp 800w, media/optimized/11-02-guitar-blakc-background-lg.webp 1080w",
+          "assetWidth": 1080,
+          "assetHeight": 1080
         },
         {
           "type": "image",
@@ -2271,7 +2490,7 @@
           "recordId": "record-11-1788550118765-2",
           "file": "escape.jpg",
           "blobKey": "record-11-1788550118765-2",
-          "assetPath": "media/11-03-escape.jpg",
+          "assetPath": "media/optimized/11-03-escape-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -2286,7 +2505,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/11-03-escape-sm.webp 800w, media/optimized/11-03-escape-lg.webp 1499w",
+          "assetWidth": 1499,
+          "assetHeight": 967
         },
         {
           "type": "image",
@@ -2294,7 +2516,7 @@
           "recordId": "record-11-1788550953796-8",
           "file": "film-eye (1).jpg",
           "blobKey": "record-11-1788550953796-8",
-          "assetPath": "media/11-04-film-eye-1-.jpg",
+          "assetPath": "media/optimized/11-04-film-eye-1-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -2309,7 +2531,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/11-04-film-eye-1-sm.webp 800w, media/optimized/11-04-film-eye-1-lg.webp 1499w",
+          "assetWidth": 1499,
+          "assetHeight": 967
         },
         {
           "type": "video",
@@ -2321,11 +2546,14 @@
           "videoUrl": "https://youtube.com/shorts/o25PaWRbUXE",
           "posterBlobKey": "video-11-02-poster",
           "posterFileName": "Weixin Image_20260904204012_225_1.jpg",
-          "posterAssetPath": "media/11-video-05-cover-Weixin-Image_20260904204012_225_1.jpg",
+          "posterAssetPath": "media/optimized/11-video-05-cover-Weixin-Image_20260904204012_225_1-lg.webp",
           "rowWidth": 5,
           "caption": "MOVING IMAGE K—02",
           "data": null,
-          "referenceImages": []
+          "referenceImages": [],
+          "posterSrcset": "media/optimized/11-video-05-cover-Weixin-Image_20260904204012_225_1-sm.webp 800w, media/optimized/11-video-05-cover-Weixin-Image_20260904204012_225_1-lg.webp 1170w",
+          "posterWidth": 1170,
+          "posterHeight": 1170
         },
         {
           "type": "image",
@@ -2333,7 +2561,7 @@
           "recordId": "record-11-1788550118766-4",
           "file": "fountain.jpg",
           "blobKey": "record-11-1788550118766-4",
-          "assetPath": "media/11-06-fountain.jpg",
+          "assetPath": "media/optimized/11-06-fountain-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -2348,7 +2576,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/11-06-fountain-sm.webp 640w, media/optimized/11-06-fountain-lg.webp 1440w",
+          "assetWidth": 1440,
+          "assetHeight": 1800
         },
         {
           "type": "video",
@@ -2360,11 +2591,14 @@
           "videoUrl": "https://youtu.be/VqmQtOIhDUM?si=QaEE9gAZRlwZBEJw",
           "posterBlobKey": "video-11-01-poster",
           "posterFileName": "Weixin Image_20260904203811_223_1.jpg",
-          "posterAssetPath": "media/11-video-07-cover-Weixin-Image_20260904203811_223_1.jpg",
+          "posterAssetPath": "media/optimized/11-video-07-cover-Weixin-Image_20260904203811_223_1-lg.webp",
           "rowWidth": 8,
           "caption": "MOVING IMAGE K—01",
           "data": null,
-          "referenceImages": []
+          "referenceImages": [],
+          "posterSrcset": "media/optimized/11-video-07-cover-Weixin-Image_20260904203811_223_1-sm.webp 800w, media/optimized/11-video-07-cover-Weixin-Image_20260904203811_223_1-lg.webp 1920w",
+          "posterWidth": 1920,
+          "posterHeight": 1080
         },
         {
           "type": "image",
@@ -2372,7 +2606,7 @@
           "recordId": "record-11-1788550118766-7",
           "file": "skeleton.jpg",
           "blobKey": "record-11-1788550118766-7",
-          "assetPath": "media/11-08-skeleton.jpg",
+          "assetPath": "media/optimized/11-08-skeleton-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -2387,7 +2621,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/11-08-skeleton-sm.webp 800w, media/optimized/11-08-skeleton-lg.webp 1554w",
+          "assetWidth": 1554,
+          "assetHeight": 1080
         }
       ]
     },
@@ -2410,7 +2647,7 @@
           "recordId": "record-12-1788558120205-7",
           "file": "YS_09_04_YS_Generator_2026_09_04_22_39_20.png",
           "blobKey": "record-12-1788558120205-7",
-          "assetPath": "media/12-01-YS_09_04_YS_Generator_2026_09_04_22_39_20.png",
+          "assetPath": "media/optimized/12-01-YS_09_04_YS_Generator_2026_09_04_22_39_20-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -2425,7 +2662,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/12-01-YS_09_04_YS_Generator_2026_09_04_22_39_20-sm.webp 600w, media/optimized/12-01-YS_09_04_YS_Generator_2026_09_04_22_39_20-lg.webp 1200w",
+          "assetWidth": 1200,
+          "assetHeight": 1600
         },
         {
           "type": "image",
@@ -2433,7 +2673,7 @@
           "recordId": "record-12-1788553583774-3",
           "file": "cyber-jellyfish.jpg",
           "blobKey": "record-12-1788553583774-3",
-          "assetPath": "media/12-02-cyber-jellyfish.jpg",
+          "assetPath": "media/optimized/12-02-cyber-jellyfish-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -2448,7 +2688,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/12-02-cyber-jellyfish-sm.webp 547w, media/optimized/12-02-cyber-jellyfish-lg.webp 1080w",
+          "assetWidth": 1080,
+          "assetHeight": 1580
         },
         {
           "type": "image",
@@ -2456,7 +2699,7 @@
           "recordId": "record-12-1788553583773-0",
           "file": "absurd-world.jpg",
           "blobKey": "record-12-1788553583773-0",
-          "assetPath": "media/12-03-absurd-world.jpg",
+          "assetPath": "media/optimized/12-03-absurd-world-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -2471,7 +2714,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/12-03-absurd-world-sm.webp 800w, media/optimized/12-03-absurd-world-lg.webp 1080w",
+          "assetWidth": 1080,
+          "assetHeight": 1080
         },
         {
           "type": "image",
@@ -2479,7 +2725,7 @@
           "recordId": "record-12-1788558726486-6",
           "file": "YS_09_04_YS_Generator_2026_09_04_22_50_18.png",
           "blobKey": "record-12-1788558726486-6",
-          "assetPath": "media/12-04-YS_09_04_YS_Generator_2026_09_04_22_50_18.png",
+          "assetPath": "media/optimized/12-04-YS_09_04_YS_Generator_2026_09_04_22_50_18-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -2494,7 +2740,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/12-04-YS_09_04_YS_Generator_2026_09_04_22_50_18-sm.webp 600w, media/optimized/12-04-YS_09_04_YS_Generator_2026_09_04_22_50_18-lg.webp 1200w",
+          "assetWidth": 1200,
+          "assetHeight": 1600
         },
         {
           "type": "image",
@@ -2502,7 +2751,7 @@
           "recordId": "record-12-1788553583775-9",
           "file": "kiss-16.9.jpg",
           "blobKey": "record-12-1788553583775-9",
-          "assetPath": "media/12-05-kiss-16.9.jpg",
+          "assetPath": "media/optimized/12-05-kiss-16.9-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -2517,7 +2766,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/12-05-kiss-16.9-sm.webp 800w, media/optimized/12-05-kiss-16.9-lg.webp 1920w",
+          "assetWidth": 1920,
+          "assetHeight": 1080
         },
         {
           "type": "image",
@@ -2525,7 +2777,7 @@
           "recordId": "record-12-1788553583775-7",
           "file": "fish.jpg",
           "blobKey": "record-12-1788553583775-7",
-          "assetPath": "media/12-06-fish.jpg",
+          "assetPath": "media/optimized/12-06-fish-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -2540,7 +2792,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/12-06-fish-sm.webp 555w, media/optimized/12-06-fish-lg.webp 1079w",
+          "assetWidth": 1079,
+          "assetHeight": 1554
         },
         {
           "type": "image",
@@ -2548,7 +2803,7 @@
           "recordId": "record-12-1788558802438-7",
           "file": "YS_09_04_YS_Generator_2026_09_04_22_40_12.png",
           "blobKey": "record-12-1788558802438-7",
-          "assetPath": "media/12-07-YS_09_04_YS_Generator_2026_09_04_22_40_12.png",
+          "assetPath": "media/optimized/12-07-YS_09_04_YS_Generator_2026_09_04_22_40_12-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -2563,7 +2818,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/12-07-YS_09_04_YS_Generator_2026_09_04_22_40_12-sm.webp 600w, media/optimized/12-07-YS_09_04_YS_Generator_2026_09_04_22_40_12-lg.webp 1200w",
+          "assetWidth": 1200,
+          "assetHeight": 1600
         }
       ]
     },
@@ -2586,7 +2844,7 @@
           "recordId": "record-13-1788555219856-1",
           "file": "angel-eye.jpg",
           "blobKey": "record-13-1788555219856-1",
-          "assetPath": "media/13-01-angel-eye.jpg",
+          "assetPath": "media/optimized/13-01-angel-eye-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -2601,7 +2859,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/13-01-angel-eye-sm.webp 776w, media/optimized/13-01-angel-eye-lg.webp 1023w",
+          "assetWidth": 1023,
+          "assetHeight": 1054
         },
         {
           "type": "image",
@@ -2609,7 +2870,7 @@
           "recordId": "record-13-1788555219857-2",
           "file": "balckpink.jpg",
           "blobKey": "record-13-1788555219857-2",
-          "assetPath": "media/13-02-balckpink.jpg",
+          "assetPath": "media/optimized/13-02-balckpink-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -2624,7 +2885,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/13-02-balckpink-sm.webp 800w, media/optimized/13-02-balckpink-lg.webp 1113w",
+          "assetWidth": 1113,
+          "assetHeight": 678
         },
         {
           "type": "image",
@@ -2632,7 +2896,7 @@
           "recordId": "record-13-1788555219857-4",
           "file": "cyber-printed.jpg",
           "blobKey": "record-13-1788555219857-4",
-          "assetPath": "media/13-03-cyber-printed.jpg",
+          "assetPath": "media/optimized/13-03-cyber-printed-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -2647,7 +2911,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/13-03-cyber-printed-sm.webp 600w, media/optimized/13-03-cyber-printed-lg.webp 1080w",
+          "assetWidth": 1080,
+          "assetHeight": 1440
         },
         {
           "type": "image",
@@ -2655,7 +2922,7 @@
           "recordId": "record-13-1788555219859-12",
           "file": "vodca.jpg",
           "blobKey": "record-13-1788555219859-12",
-          "assetPath": "media/13-04-vodca.jpg",
+          "assetPath": "media/optimized/13-04-vodca-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -2670,7 +2937,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/13-04-vodca-sm.webp 640w, media/optimized/13-04-vodca-lg.webp 1440w",
+          "assetWidth": 1440,
+          "assetHeight": 1800
         },
         {
           "type": "image",
@@ -2678,7 +2948,7 @@
           "recordId": "record-13-1788555219857-5",
           "file": "cyber-printed-2.jpg",
           "blobKey": "record-13-1788555219857-5",
-          "assetPath": "media/13-05-cyber-printed-2.jpg",
+          "assetPath": "media/optimized/13-05-cyber-printed-2-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -2693,7 +2963,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/13-05-cyber-printed-2-sm.webp 600w, media/optimized/13-05-cyber-printed-2-lg.webp 1080w",
+          "assetWidth": 1080,
+          "assetHeight": 1440
         },
         {
           "type": "image",
@@ -2701,7 +2974,7 @@
           "recordId": "record-13-1788558873228-6",
           "file": "YS_09_04_YS_Generator_2026_09_04_22_40_57.png",
           "blobKey": "record-13-1788558873228-6",
-          "assetPath": "media/13-06-YS_09_04_YS_Generator_2026_09_04_22_40_57.png",
+          "assetPath": "media/optimized/13-06-YS_09_04_YS_Generator_2026_09_04_22_40_57-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -2716,7 +2989,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/13-06-YS_09_04_YS_Generator_2026_09_04_22_40_57-sm.webp 600w, media/optimized/13-06-YS_09_04_YS_Generator_2026_09_04_22_40_57-lg.webp 1200w",
+          "assetWidth": 1200,
+          "assetHeight": 1600
         }
       ]
     },
@@ -2739,7 +3015,7 @@
           "recordId": "record-14-1788559057702-0",
           "file": "snake-balck.jpg",
           "blobKey": "record-14-1788559057702-0",
-          "assetPath": "media/14-01-snake-balck.jpg",
+          "assetPath": "media/optimized/14-01-snake-balck-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -2754,7 +3030,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/14-01-snake-balck-sm.webp 450w, media/optimized/14-01-snake-balck-lg.webp 1080w",
+          "assetWidth": 1080,
+          "assetHeight": 1920
         },
         {
           "type": "image",
@@ -2762,7 +3041,7 @@
           "recordId": "record-14-1788559068503-1",
           "file": "YS_09_04_YS_Generator_2026_09_04_22_24_56.png",
           "blobKey": "record-14-1788559068503-1",
-          "assetPath": "media/14-02-YS_09_04_YS_Generator_2026_09_04_22_24_56.png",
+          "assetPath": "media/optimized/14-02-YS_09_04_YS_Generator_2026_09_04_22_24_56-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -2777,7 +3056,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/14-02-YS_09_04_YS_Generator_2026_09_04_22_24_56-sm.webp 600w, media/optimized/14-02-YS_09_04_YS_Generator_2026_09_04_22_24_56-lg.webp 1200w",
+          "assetWidth": 1200,
+          "assetHeight": 1600
         },
         {
           "type": "image",
@@ -2785,7 +3067,7 @@
           "recordId": "record-14-1788560800161-10",
           "file": "333.jpg",
           "blobKey": "record-14-1788560800161-10",
-          "assetPath": "media/14-03-333.jpg",
+          "assetPath": "media/optimized/14-03-333-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -2800,7 +3082,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/14-03-333-sm.webp 800w, media/optimized/14-03-333-lg.webp 1200w",
+          "assetWidth": 1200,
+          "assetHeight": 1035
         },
         {
           "type": "image",
@@ -2808,7 +3093,7 @@
           "recordId": "record-14-1788559087283-2",
           "file": "YS_09_04_YS_Generator_2026_09_04_22_35_17.png",
           "blobKey": "record-14-1788559087283-2",
-          "assetPath": "media/14-04-YS_09_04_YS_Generator_2026_09_04_22_35_17.png",
+          "assetPath": "media/optimized/14-04-YS_09_04_YS_Generator_2026_09_04_22_35_17-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -2823,7 +3108,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/14-04-YS_09_04_YS_Generator_2026_09_04_22_35_17-sm.webp 600w, media/optimized/14-04-YS_09_04_YS_Generator_2026_09_04_22_35_17-lg.webp 1200w",
+          "assetWidth": 1200,
+          "assetHeight": 1600
         },
         {
           "type": "image",
@@ -2831,7 +3119,7 @@
           "recordId": "record-14-1788559199999-5",
           "file": "YS_09_04_YS_Generator_2026_09_04_22_33_31.png",
           "blobKey": "record-14-1788559199999-5",
-          "assetPath": "media/14-05-YS_09_04_YS_Generator_2026_09_04_22_33_31.png",
+          "assetPath": "media/optimized/14-05-YS_09_04_YS_Generator_2026_09_04_22_33_31-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -2846,7 +3134,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/14-05-YS_09_04_YS_Generator_2026_09_04_22_33_31-sm.webp 600w, media/optimized/14-05-YS_09_04_YS_Generator_2026_09_04_22_33_31-lg.webp 1200w",
+          "assetWidth": 1200,
+          "assetHeight": 1600
         },
         {
           "type": "image",
@@ -2854,7 +3145,7 @@
           "recordId": "record-14-1788561142351-9",
           "file": "122.jpg",
           "blobKey": "record-14-1788561142351-9",
-          "assetPath": "media/14-06-122.jpg",
+          "assetPath": "media/optimized/14-06-122-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -2869,7 +3160,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/14-06-122-sm.webp 600w, media/optimized/14-06-122-lg.webp 1200w",
+          "assetWidth": 1200,
+          "assetHeight": 1600
         },
         {
           "type": "image",
@@ -2877,7 +3171,7 @@
           "recordId": "record-14-1788559294934-10",
           "file": "YS_09_04_YS_Generator_2026_09_04_22_36_53.png",
           "blobKey": "record-14-1788559294934-10",
-          "assetPath": "media/14-07-YS_09_04_YS_Generator_2026_09_04_22_36_53.png",
+          "assetPath": "media/optimized/14-07-YS_09_04_YS_Generator_2026_09_04_22_36_53-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -2892,7 +3186,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/14-07-YS_09_04_YS_Generator_2026_09_04_22_36_53-sm.webp 600w, media/optimized/14-07-YS_09_04_YS_Generator_2026_09_04_22_36_53-lg.webp 1200w",
+          "assetWidth": 1200,
+          "assetHeight": 1600
         },
         {
           "type": "image",
@@ -2900,7 +3197,7 @@
           "recordId": "record-14-1788559237577-7",
           "file": "star-space-dublicated.jpg",
           "blobKey": "record-14-1788559237577-7",
-          "assetPath": "media/14-08-star-space-dublicated.jpg",
+          "assetPath": "media/optimized/14-08-star-space-dublicated-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -2915,7 +3212,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/14-08-star-space-dublicated-sm.webp 792w, media/optimized/14-08-star-space-dublicated-lg.webp 1234w",
+          "assetWidth": 1234,
+          "assetHeight": 1246
         },
         {
           "type": "image",
@@ -2923,7 +3223,7 @@
           "recordId": "record-14-1788559244671-8",
           "file": "star-space-round.jpg",
           "blobKey": "record-14-1788559244671-8",
-          "assetPath": "media/14-09-star-space-round.jpg",
+          "assetPath": "media/optimized/14-09-star-space-round-lg.webp",
           "videoUrl": "",
           "posterBlobKey": "",
           "posterFileName": "",
@@ -2938,7 +3238,10 @@
             "software": "NOT YET CATALOGUED",
             "notes": ""
           },
-          "referenceImages": []
+          "referenceImages": [],
+          "assetSrcset": "media/optimized/14-09-star-space-round-sm.webp 766w, media/optimized/14-09-star-space-round-lg.webp 1080w",
+          "assetWidth": 1080,
+          "assetHeight": 1128
         }
       ]
     }
@@ -3054,7 +3357,8 @@
       "type": "image",
       "originalName": "Weixin Image_20260903122136_171_1.jpg",
       "blobKey": "record-01-1788474824252-1",
-      "bundledPath": "media/01-01-Weixin-Image_20260903122136_171_1.jpg"
+      "bundledPath": "media/optimized/01-01-Weixin-Image_20260903122136_171_1-lg.webp",
+      "bundledSrcset": "media/optimized/01-01-Weixin-Image_20260903122136_171_1-sm.webp 800w, media/optimized/01-01-Weixin-Image_20260903122136_171_1-lg.webp 1920w"
     },
     {
       "section": "01",
@@ -3062,7 +3366,8 @@
       "type": "image",
       "originalName": "mermaid 1.jpg",
       "blobKey": "record-01-1788475499422-2",
-      "bundledPath": "media/01-02-mermaid-1.jpg"
+      "bundledPath": "media/optimized/01-02-mermaid-1-lg.webp",
+      "bundledSrcset": "media/optimized/01-02-mermaid-1-sm.webp 800w, media/optimized/01-02-mermaid-1-lg.webp 1920w"
     },
     {
       "section": "01",
@@ -3070,7 +3375,8 @@
       "type": "image",
       "originalName": "Weixin Image_20260902231453_161_1.jpg",
       "blobKey": "record-01-1788475604145-3",
-      "bundledPath": "media/01-03-Weixin-Image_20260902231453_161_1.jpg"
+      "bundledPath": "media/optimized/01-03-Weixin-Image_20260902231453_161_1-lg.webp",
+      "bundledSrcset": "media/optimized/01-03-Weixin-Image_20260902231453_161_1-sm.webp 800w, media/optimized/01-03-Weixin-Image_20260902231453_161_1-lg.webp 1920w"
     },
     {
       "section": "01",
@@ -3078,7 +3384,8 @@
       "type": "image",
       "originalName": "Weixin Image_20260902231448_158_1.jpg",
       "blobKey": "record-01-1788475685805-6",
-      "bundledPath": "media/01-04-Weixin-Image_20260902231448_158_1.jpg"
+      "bundledPath": "media/optimized/01-04-Weixin-Image_20260902231448_158_1-lg.webp",
+      "bundledSrcset": "media/optimized/01-04-Weixin-Image_20260902231448_158_1-sm.webp 800w, media/optimized/01-04-Weixin-Image_20260902231448_158_1-lg.webp 1920w"
     },
     {
       "section": "01",
@@ -3086,7 +3393,8 @@
       "type": "image",
       "originalName": "Weixin Image_20260902231449_159_1.jpg",
       "blobKey": "record-01-1788475630554-4",
-      "bundledPath": "media/01-05-Weixin-Image_20260902231449_159_1.jpg"
+      "bundledPath": "media/optimized/01-05-Weixin-Image_20260902231449_159_1-lg.webp",
+      "bundledSrcset": "media/optimized/01-05-Weixin-Image_20260902231449_159_1-sm.webp 800w, media/optimized/01-05-Weixin-Image_20260902231449_159_1-lg.webp 1920w"
     },
     {
       "section": "01",
@@ -3094,7 +3402,8 @@
       "type": "image",
       "originalName": "Weixin Image_20260902231454_162_1.jpg",
       "blobKey": "record-01-1788475664654-5",
-      "bundledPath": "media/01-06-Weixin-Image_20260902231454_162_1.jpg"
+      "bundledPath": "media/optimized/01-06-Weixin-Image_20260902231454_162_1-lg.webp",
+      "bundledSrcset": "media/optimized/01-06-Weixin-Image_20260902231454_162_1-sm.webp 800w, media/optimized/01-06-Weixin-Image_20260902231454_162_1-lg.webp 1919w"
     },
     {
       "section": "01",
@@ -3102,7 +3411,8 @@
       "type": "image",
       "originalName": "WeChat-Image_20240616210944.jpg",
       "blobKey": "record-01-1788475867603-7",
-      "bundledPath": "media/01-07-WeChat-Image_20240616210944.jpg"
+      "bundledPath": "media/optimized/01-07-WeChat-Image_20240616210944-lg.webp",
+      "bundledSrcset": "media/optimized/01-07-WeChat-Image_20240616210944-sm.webp 566w, media/optimized/01-07-WeChat-Image_20240616210944-lg.webp 1358w"
     },
     {
       "section": "01",
@@ -3110,7 +3420,8 @@
       "type": "image",
       "originalName": "moon.jpg",
       "blobKey": "record-01-1788476017326-8",
-      "bundledPath": "media/01-08-moon.jpg"
+      "bundledPath": "media/optimized/01-08-moon-lg.webp",
+      "bundledSrcset": "media/optimized/01-08-moon-sm.webp 556w, media/optimized/01-08-moon-lg.webp 1080w"
     },
     {
       "section": "01",
@@ -3118,7 +3429,8 @@
       "type": "image",
       "originalName": "WeChat-Image_20240617002355.jpg",
       "blobKey": "record-01-1788476184608-11",
-      "bundledPath": "media/01-09-WeChat-Image_20240617002355.jpg"
+      "bundledPath": "media/optimized/01-09-WeChat-Image_20240617002355-lg.webp",
+      "bundledSrcset": "media/optimized/01-09-WeChat-Image_20240617002355-sm.webp 800w, media/optimized/01-09-WeChat-Image_20240617002355-lg.webp 1500w"
     },
     {
       "section": "01",
@@ -3126,7 +3438,8 @@
       "type": "image",
       "originalName": "2.jpg",
       "blobKey": "record-01-1788476192587-12",
-      "bundledPath": "media/01-10-2.jpg"
+      "bundledPath": "media/optimized/01-10-2-lg.webp",
+      "bundledSrcset": "media/optimized/01-10-2-sm.webp 566w, media/optimized/01-10-2-lg.webp 1358w"
     },
     {
       "section": "01",
@@ -3134,7 +3447,8 @@
       "type": "image",
       "originalName": "3.jpg",
       "blobKey": "record-01-1788476169259-9",
-      "bundledPath": "media/01-11-3.jpg"
+      "bundledPath": "media/optimized/01-11-3-lg.webp",
+      "bundledSrcset": "media/optimized/01-11-3-sm.webp 800w, media/optimized/01-11-3-lg.webp 900w"
     },
     {
       "section": "01",
@@ -3142,7 +3456,8 @@
       "type": "image",
       "originalName": "Screenshot-2025-07-18-135402.png",
       "blobKey": "record-01-1788476174690-10",
-      "bundledPath": "media/01-12-Screenshot-2025-07-18-135402.png"
+      "bundledPath": "media/optimized/01-12-Screenshot-2025-07-18-135402-lg.webp",
+      "bundledSrcset": "media/optimized/01-12-Screenshot-2025-07-18-135402-sm.webp 800w, media/optimized/01-12-Screenshot-2025-07-18-135402-lg.webp 1099w"
     },
     {
       "section": "02",
@@ -3150,7 +3465,8 @@
       "type": "image",
       "originalName": "Weixin Image_20260903104835_169_1.jpg",
       "blobKey": "record-02-1788544790029-5",
-      "bundledPath": "media/02-01-Weixin-Image_20260903104835_169_1.jpg"
+      "bundledPath": "media/optimized/02-01-Weixin-Image_20260903104835_169_1-lg.webp",
+      "bundledSrcset": "media/optimized/02-01-Weixin-Image_20260903104835_169_1-sm.webp 800w, media/optimized/02-01-Weixin-Image_20260903104835_169_1-lg.webp 1920w"
     },
     {
       "section": "02",
@@ -3158,7 +3474,8 @@
       "type": "image",
       "originalName": "6.jpg",
       "blobKey": "record-02-1788519573205-0",
-      "bundledPath": "media/02-02-6.jpg"
+      "bundledPath": "media/optimized/02-02-6-lg.webp",
+      "bundledSrcset": "media/optimized/02-02-6-sm.webp 800w, media/optimized/02-02-6-lg.webp 1811w"
     },
     {
       "section": "02",
@@ -3166,7 +3483,8 @@
       "type": "image",
       "originalName": "WeChat-Image_20240617203250.jpg",
       "blobKey": "record-02-1788519595355-1",
-      "bundledPath": "media/02-03-WeChat-Image_20240617203250.jpg"
+      "bundledPath": "media/optimized/02-03-WeChat-Image_20240617203250-lg.webp",
+      "bundledSrcset": "media/optimized/02-03-WeChat-Image_20240617203250-sm.webp 743w, media/optimized/02-03-WeChat-Image_20240617203250-lg.webp 1080w"
     },
     {
       "section": "02",
@@ -3174,7 +3492,8 @@
       "type": "image",
       "originalName": "8.jpg",
       "blobKey": "record-02-1788519875408-2",
-      "bundledPath": "media/02-04-8.jpg"
+      "bundledPath": "media/optimized/02-04-8-lg.webp",
+      "bundledSrcset": "media/optimized/02-04-8-sm.webp 532w, media/optimized/02-04-8-lg.webp 998w"
     },
     {
       "section": "02",
@@ -3182,7 +3501,8 @@
       "type": "image",
       "originalName": "WeChat-Image_20240617213528.jpg",
       "blobKey": "record-02-1788519903907-3",
-      "bundledPath": "media/02-05-WeChat-Image_20240617213528.jpg"
+      "bundledPath": "media/optimized/02-05-WeChat-Image_20240617213528-lg.webp",
+      "bundledSrcset": "media/optimized/02-05-WeChat-Image_20240617213528-sm.webp 527w, media/optimized/02-05-WeChat-Image_20240617213528-lg.webp 988w"
     },
     {
       "section": "02",
@@ -3190,7 +3510,8 @@
       "type": "image",
       "originalName": "WeChat-Image_20240617222538.jpg",
       "blobKey": "record-02-1788519982292-4",
-      "bundledPath": "media/02-06-WeChat-Image_20240617222538.jpg"
+      "bundledPath": "media/optimized/02-06-WeChat-Image_20240617222538-lg.webp",
+      "bundledSrcset": "media/optimized/02-06-WeChat-Image_20240617222538-sm.webp 661w, media/optimized/02-06-WeChat-Image_20240617222538-lg.webp 1239w"
     },
     {
       "section": "03",
@@ -3198,7 +3519,8 @@
       "type": "image",
       "originalName": "16.jpg",
       "blobKey": "record-03-1788521798701-0",
-      "bundledPath": "media/03-01-16.jpg"
+      "bundledPath": "media/optimized/03-01-16-lg.webp",
+      "bundledSrcset": "media/optimized/03-01-16-sm.webp 516w, media/optimized/03-01-16-lg.webp 968w"
     },
     {
       "section": "03",
@@ -3206,7 +3528,8 @@
       "type": "image",
       "originalName": "WeChat-Image_20240618002826.jpg",
       "blobKey": "record-03-1788521811073-1",
-      "bundledPath": "media/03-02-WeChat-Image_20240618002826.jpg"
+      "bundledPath": "media/optimized/03-02-WeChat-Image_20240618002826-lg.webp",
+      "bundledSrcset": "media/optimized/03-02-WeChat-Image_20240618002826-sm.webp 640w, media/optimized/03-02-WeChat-Image_20240618002826-lg.webp 1440w"
     },
     {
       "section": "03",
@@ -3214,7 +3537,8 @@
       "type": "image",
       "originalName": "17.jpg",
       "blobKey": "record-03-1788521818446-2",
-      "bundledPath": "media/03-03-17.jpg"
+      "bundledPath": "media/optimized/03-03-17-lg.webp",
+      "bundledSrcset": "media/optimized/03-03-17-sm.webp 592w, media/optimized/03-03-17-lg.webp 1110w"
     },
     {
       "section": "03",
@@ -3222,7 +3546,8 @@
       "type": "image",
       "originalName": "15.jpg",
       "blobKey": "record-03-1788521838901-4",
-      "bundledPath": "media/03-04-15.jpg"
+      "bundledPath": "media/optimized/03-04-15-lg.webp",
+      "bundledSrcset": "media/optimized/03-04-15-sm.webp 800w, media/optimized/03-04-15-lg.webp 1873w"
     },
     {
       "section": "03",
@@ -3230,7 +3555,8 @@
       "type": "image",
       "originalName": "14.jpg",
       "blobKey": "record-03-1788521832512-3",
-      "bundledPath": "media/03-05-14.jpg"
+      "bundledPath": "media/optimized/03-05-14-lg.webp",
+      "bundledSrcset": "media/optimized/03-05-14-sm.webp 533w, media/optimized/03-05-14-lg.webp 1184w"
     },
     {
       "section": "03",
@@ -3238,7 +3564,8 @@
       "type": "image",
       "originalName": "YS_09_04_YS_Generator_2026_09_04_22_32_06.png",
       "blobKey": "record-03-1788558950478-8",
-      "bundledPath": "media/03-06-YS_09_04_YS_Generator_2026_09_04_22_32_06.png"
+      "bundledPath": "media/optimized/03-06-YS_09_04_YS_Generator_2026_09_04_22_32_06-lg.webp",
+      "bundledSrcset": "media/optimized/03-06-YS_09_04_YS_Generator_2026_09_04_22_32_06-sm.webp 600w, media/optimized/03-06-YS_09_04_YS_Generator_2026_09_04_22_32_06-lg.webp 1200w"
     },
     {
       "section": "03",
@@ -3246,7 +3573,8 @@
       "type": "image",
       "originalName": "YS_09_04_YS_Generator_2026_09_04_22_30_44.png",
       "blobKey": "record-03-1788558961650-9",
-      "bundledPath": "media/03-07-YS_09_04_YS_Generator_2026_09_04_22_30_44.png"
+      "bundledPath": "media/optimized/03-07-YS_09_04_YS_Generator_2026_09_04_22_30_44-lg.webp",
+      "bundledSrcset": "media/optimized/03-07-YS_09_04_YS_Generator_2026_09_04_22_30_44-sm.webp 600w, media/optimized/03-07-YS_09_04_YS_Generator_2026_09_04_22_30_44-lg.webp 1200w"
     },
     {
       "section": "03",
@@ -3254,7 +3582,8 @@
       "type": "image",
       "originalName": "WeChat-Image_20240618015631.jpg",
       "blobKey": "record-03-1788522807042-7",
-      "bundledPath": "media/03-08-WeChat-Image_20240618015631.jpg"
+      "bundledPath": "media/optimized/03-08-WeChat-Image_20240618015631-lg.webp",
+      "bundledSrcset": "media/optimized/03-08-WeChat-Image_20240618015631-sm.webp 800w, media/optimized/03-08-WeChat-Image_20240618015631-lg.webp 800w"
     },
     {
       "section": "04",
@@ -3262,7 +3591,8 @@
       "type": "image",
       "originalName": "WeChat-Image_20240618110430.jpg",
       "blobKey": "record-04-1788523741090-0",
-      "bundledPath": "media/04-01-WeChat-Image_20240618110430.jpg"
+      "bundledPath": "media/optimized/04-01-WeChat-Image_20240618110430-lg.webp",
+      "bundledSrcset": "media/optimized/04-01-WeChat-Image_20240618110430-sm.webp 515w, media/optimized/04-01-WeChat-Image_20240618110430-lg.webp 966w"
     },
     {
       "section": "04",
@@ -3270,7 +3600,8 @@
       "type": "image",
       "originalName": "mer-side.jpg",
       "blobKey": "record-04-1788523982229-1",
-      "bundledPath": "media/04-02-mer-side.jpg"
+      "bundledPath": "media/optimized/04-02-mer-side-lg.webp",
+      "bundledSrcset": "media/optimized/04-02-mer-side-sm.webp 519w, media/optimized/04-02-mer-side-lg.webp 973w"
     },
     {
       "section": "04",
@@ -3278,7 +3609,8 @@
       "type": "image",
       "originalName": "mermaid-close.jpg",
       "blobKey": "record-04-1788524046449-5",
-      "bundledPath": "media/04-03-mermaid-close.jpg"
+      "bundledPath": "media/optimized/04-03-mermaid-close-lg.webp",
+      "bundledSrcset": "media/optimized/04-03-mermaid-close-sm.webp 600w, media/optimized/04-03-mermaid-close-lg.webp 955w"
     },
     {
       "section": "04",
@@ -3286,7 +3618,8 @@
       "type": "image",
       "originalName": "WeChat-Image_20240620232921.jpg",
       "blobKey": "record-04-1788524012936-2",
-      "bundledPath": "media/04-04-WeChat-Image_20240620232921.jpg"
+      "bundledPath": "media/optimized/04-04-WeChat-Image_20240620232921-lg.webp",
+      "bundledSrcset": "media/optimized/04-04-WeChat-Image_20240620232921-sm.webp 566w, media/optimized/04-04-WeChat-Image_20240620232921-lg.webp 1061w"
     },
     {
       "section": "04",
@@ -3294,7 +3627,8 @@
       "type": "image",
       "originalName": "Weixin-Image_2025-07-18_160818_750.jpg",
       "blobKey": "record-04-1788524020917-3",
-      "bundledPath": "media/04-05-Weixin-Image_2025-07-18_160818_750.jpg"
+      "bundledPath": "media/optimized/04-05-Weixin-Image_2025-07-18_160818_750-lg.webp",
+      "bundledSrcset": "media/optimized/04-05-Weixin-Image_2025-07-18_160818_750-sm.webp 800w, media/optimized/04-05-Weixin-Image_2025-07-18_160818_750-lg.webp 1492w"
     },
     {
       "section": "04",
@@ -3302,7 +3636,8 @@
       "type": "image",
       "originalName": "merimaid-print.jpg",
       "blobKey": "record-04-1788524029775-4",
-      "bundledPath": "media/04-06-merimaid-print.jpg"
+      "bundledPath": "media/optimized/04-06-merimaid-print-lg.webp",
+      "bundledSrcset": "media/optimized/04-06-merimaid-print-sm.webp 800w, media/optimized/04-06-merimaid-print-lg.webp 1920w"
     },
     {
       "section": "05",
@@ -3310,7 +3645,8 @@
       "type": "image",
       "originalName": "Weixin-Image_20260313114724_2410_4.jpg",
       "blobKey": "record-05-1788532849380-1",
-      "bundledPath": "media/05-01-Weixin-Image_20260313114724_2410_4.jpg"
+      "bundledPath": "media/optimized/05-01-Weixin-Image_20260313114724_2410_4-lg.webp",
+      "bundledSrcset": "media/optimized/05-01-Weixin-Image_20260313114724_2410_4-sm.webp 800w, media/optimized/05-01-Weixin-Image_20260313114724_2410_4-lg.webp 1680w"
     },
     {
       "section": "05",
@@ -3318,7 +3654,8 @@
       "type": "video-cover",
       "originalName": "Weixin-Image_20260313114723_2409_4.jpg",
       "blobKey": "video-05-01-poster",
-      "bundledPath": "media/05-video-02-cover-Weixin-Image_20260313114723_2409_4.jpg"
+      "bundledPath": "media/optimized/05-video-02-cover-Weixin-Image_20260313114723_2409_4-lg.webp",
+      "bundledSrcset": "media/optimized/05-video-02-cover-Weixin-Image_20260313114723_2409_4-sm.webp 800w, media/optimized/05-video-02-cover-Weixin-Image_20260313114723_2409_4-lg.webp 1732w"
     },
     {
       "section": "05",
@@ -3326,7 +3663,8 @@
       "type": "image",
       "originalName": "Weixin-Image_20260313114721_2408_4.jpg",
       "blobKey": "record-05-1788532908781-2",
-      "bundledPath": "media/05-03-Weixin-Image_20260313114721_2408_4.jpg"
+      "bundledPath": "media/optimized/05-03-Weixin-Image_20260313114721_2408_4-lg.webp",
+      "bundledSrcset": "media/optimized/05-03-Weixin-Image_20260313114721_2408_4-sm.webp 800w, media/optimized/05-03-Weixin-Image_20260313114721_2408_4-lg.webp 1816w"
     },
     {
       "section": "05",
@@ -3334,7 +3672,8 @@
       "type": "image",
       "originalName": "Weixin-Image_20260313114732_2415_4.jpg",
       "blobKey": "record-05-1788532948165-4",
-      "bundledPath": "media/05-04-Weixin-Image_20260313114732_2415_4.jpg"
+      "bundledPath": "media/optimized/05-04-Weixin-Image_20260313114732_2415_4-lg.webp",
+      "bundledSrcset": "media/optimized/05-04-Weixin-Image_20260313114732_2415_4-sm.webp 800w, media/optimized/05-04-Weixin-Image_20260313114732_2415_4-lg.webp 1425w"
     },
     {
       "section": "05",
@@ -3342,7 +3681,8 @@
       "type": "image",
       "originalName": "Weixin-Image_20260313114731_2414_4.jpg",
       "blobKey": "record-05-1788532948165-3",
-      "bundledPath": "media/05-05-Weixin-Image_20260313114731_2414_4.jpg"
+      "bundledPath": "media/optimized/05-05-Weixin-Image_20260313114731_2414_4-lg.webp",
+      "bundledSrcset": "media/optimized/05-05-Weixin-Image_20260313114731_2414_4-sm.webp 800w, media/optimized/05-05-Weixin-Image_20260313114731_2414_4-lg.webp 1407w"
     },
     {
       "section": "05",
@@ -3350,7 +3690,8 @@
       "type": "image",
       "originalName": "Weixin-Image_20260313123549_2418_4.jpg",
       "blobKey": "record-05-1788532948166-5",
-      "bundledPath": "media/05-06-Weixin-Image_20260313123549_2418_4.jpg"
+      "bundledPath": "media/optimized/05-06-Weixin-Image_20260313123549_2418_4-lg.webp",
+      "bundledSrcset": "media/optimized/05-06-Weixin-Image_20260313123549_2418_4-sm.webp 800w, media/optimized/05-06-Weixin-Image_20260313123549_2418_4-lg.webp 1849w"
     },
     {
       "section": "05",
@@ -3358,7 +3699,8 @@
       "type": "image",
       "originalName": "Weixin-Image_20260313114726_2411_4.jpg",
       "blobKey": "record-05-1788533010603-6",
-      "bundledPath": "media/05-07-Weixin-Image_20260313114726_2411_4.jpg"
+      "bundledPath": "media/optimized/05-07-Weixin-Image_20260313114726_2411_4-lg.webp",
+      "bundledSrcset": "media/optimized/05-07-Weixin-Image_20260313114726_2411_4-sm.webp 800w, media/optimized/05-07-Weixin-Image_20260313114726_2411_4-lg.webp 1196w"
     },
     {
       "section": "05",
@@ -3366,7 +3708,8 @@
       "type": "image",
       "originalName": "Weixin-Image_20260313114727_2412_4.jpg",
       "blobKey": "record-05-1788533010604-7",
-      "bundledPath": "media/05-08-Weixin-Image_20260313114727_2412_4.jpg"
+      "bundledPath": "media/optimized/05-08-Weixin-Image_20260313114727_2412_4-lg.webp",
+      "bundledSrcset": "media/optimized/05-08-Weixin-Image_20260313114727_2412_4-sm.webp 800w, media/optimized/05-08-Weixin-Image_20260313114727_2412_4-lg.webp 1686w"
     },
     {
       "section": "06",
@@ -3374,7 +3717,8 @@
       "type": "image",
       "originalName": "cyber-dragonnfly.png",
       "blobKey": "record-06-1788536134559-0",
-      "bundledPath": "media/06-01-cyber-dragonnfly.png"
+      "bundledPath": "media/optimized/06-01-cyber-dragonnfly-lg.webp",
+      "bundledSrcset": "media/optimized/06-01-cyber-dragonnfly-sm.webp 800w, media/optimized/06-01-cyber-dragonnfly-lg.webp 1920w"
     },
     {
       "section": "06",
@@ -3382,7 +3726,8 @@
       "type": "image",
       "originalName": "cyber-dragonfly.png",
       "blobKey": "record-06-1788536148739-1",
-      "bundledPath": "media/06-02-cyber-dragonfly.png"
+      "bundledPath": "media/optimized/06-02-cyber-dragonfly-lg.webp",
+      "bundledSrcset": "media/optimized/06-02-cyber-dragonfly-sm.webp 800w, media/optimized/06-02-cyber-dragonfly-lg.webp 1920w"
     },
     {
       "section": "06",
@@ -3390,7 +3735,8 @@
       "type": "image",
       "originalName": "fradgile-heart.jpg",
       "blobKey": "record-06-1788536345036-2",
-      "bundledPath": "media/06-03-fradgile-heart.jpg"
+      "bundledPath": "media/optimized/06-03-fradgile-heart-lg.webp",
+      "bundledSrcset": "media/optimized/06-03-fradgile-heart-sm.webp 600w, media/optimized/06-03-fradgile-heart-lg.webp 1080w"
     },
     {
       "section": "06",
@@ -3398,7 +3744,8 @@
       "type": "image",
       "originalName": "batterssea.jpg",
       "blobKey": "record-06-1788536369923-3",
-      "bundledPath": "media/06-04-batterssea.jpg"
+      "bundledPath": "media/optimized/06-04-batterssea-lg.webp",
+      "bundledSrcset": "media/optimized/06-04-batterssea-sm.webp 642w, media/optimized/06-04-batterssea-lg.webp 891w"
     },
     {
       "section": "07",
@@ -3406,7 +3753,8 @@
       "type": "image",
       "originalName": "blood.jpg",
       "blobKey": "record-07-1788541319757-0",
-      "bundledPath": "media/07-01-blood.jpg"
+      "bundledPath": "media/optimized/07-01-blood-lg.webp",
+      "bundledSrcset": "media/optimized/07-01-blood-sm.webp 800w, media/optimized/07-01-blood-lg.webp 1280w"
     },
     {
       "section": "07",
@@ -3414,7 +3762,8 @@
       "type": "image",
       "originalName": "spring.jpg",
       "blobKey": "record-07-1788541333741-1",
-      "bundledPath": "media/07-02-spring.jpg"
+      "bundledPath": "media/optimized/07-02-spring-lg.webp",
+      "bundledSrcset": "media/optimized/07-02-spring-sm.webp 582w, media/optimized/07-02-spring-lg.webp 1397w"
     },
     {
       "section": "07",
@@ -3422,7 +3771,8 @@
       "type": "image",
       "originalName": "grass.jpg",
       "blobKey": "record-07-1788541362818-3",
-      "bundledPath": "media/07-03-grass.jpg"
+      "bundledPath": "media/optimized/07-03-grass-lg.webp",
+      "bundledSrcset": "media/optimized/07-03-grass-sm.webp 515w, media/optimized/07-03-grass-lg.webp 900w"
     },
     {
       "section": "07",
@@ -3430,7 +3780,8 @@
       "type": "image",
       "originalName": "snake.jpg",
       "blobKey": "record-07-1788541348667-2",
-      "bundledPath": "media/07-04-snake.jpg"
+      "bundledPath": "media/optimized/07-04-snake-lg.webp",
+      "bundledSrcset": "media/optimized/07-04-snake-sm.webp 800w, media/optimized/07-04-snake-lg.webp 1571w"
     },
     {
       "section": "08",
@@ -3438,7 +3789,8 @@
       "type": "image",
       "originalName": "breathe-front.jpg",
       "blobKey": "record-08-1788544495097-0",
-      "bundledPath": "media/08-01-breathe-front.jpg"
+      "bundledPath": "media/optimized/08-01-breathe-front-lg.webp",
+      "bundledSrcset": "media/optimized/08-01-breathe-front-sm.webp 605w, media/optimized/08-01-breathe-front-lg.webp 1170w"
     },
     {
       "section": "08",
@@ -3446,7 +3798,8 @@
       "type": "image",
       "originalName": "breathe-whole.jpg",
       "blobKey": "record-08-1788544502052-1",
-      "bundledPath": "media/08-02-breathe-whole.jpg"
+      "bundledPath": "media/optimized/08-02-breathe-whole-lg.webp",
+      "bundledSrcset": "media/optimized/08-02-breathe-whole-sm.webp 640w, media/optimized/08-02-breathe-whole-lg.webp 1536w"
     },
     {
       "section": "08",
@@ -3454,7 +3807,8 @@
       "type": "image",
       "originalName": "breathe-side.jpg",
       "blobKey": "record-08-1788544506553-2",
-      "bundledPath": "media/08-03-breathe-side.jpg"
+      "bundledPath": "media/optimized/08-03-breathe-side-lg.webp",
+      "bundledSrcset": "media/optimized/08-03-breathe-side-sm.webp 800w, media/optimized/08-03-breathe-side-lg.webp 1029w"
     },
     {
       "section": "08",
@@ -3462,7 +3816,8 @@
       "type": "image",
       "originalName": "piano-close.jpg",
       "blobKey": "record-08-1788544546707-3",
-      "bundledPath": "media/08-04-piano-close.jpg"
+      "bundledPath": "media/optimized/08-04-piano-close-lg.webp",
+      "bundledSrcset": "media/optimized/08-04-piano-close-sm.webp 533w, media/optimized/08-04-piano-close-lg.webp 1080w"
     },
     {
       "section": "08",
@@ -3470,7 +3825,8 @@
       "type": "image",
       "originalName": "piano-best.jpg",
       "blobKey": "record-08-1788544562041-4",
-      "bundledPath": "media/08-05-piano-best.jpg"
+      "bundledPath": "media/optimized/08-05-piano-best-lg.webp",
+      "bundledSrcset": "media/optimized/08-05-piano-best-sm.webp 800w, media/optimized/08-05-piano-best-lg.webp 876w"
     },
     {
       "section": "08",
@@ -3478,7 +3834,8 @@
       "type": "image",
       "originalName": "piano-room.jpg",
       "blobKey": "record-08-1788544587165-5",
-      "bundledPath": "media/08-06-piano-room.jpg"
+      "bundledPath": "media/optimized/08-06-piano-room-lg.webp",
+      "bundledSrcset": "media/optimized/08-06-piano-room-sm.webp 800w, media/optimized/08-06-piano-room-lg.webp 991w"
     },
     {
       "section": "08",
@@ -3486,7 +3843,8 @@
       "type": "image",
       "originalName": "butterfly.jpg",
       "blobKey": "record-08-1788544606130-6",
-      "bundledPath": "media/08-07-butterfly.jpg"
+      "bundledPath": "media/optimized/08-07-butterfly-lg.webp",
+      "bundledSrcset": "media/optimized/08-07-butterfly-sm.webp 800w, media/optimized/08-07-butterfly-lg.webp 808w"
     },
     {
       "section": "08",
@@ -3494,7 +3852,8 @@
       "type": "image",
       "originalName": "boat.jpg",
       "blobKey": "record-08-1788544629055-7",
-      "bundledPath": "media/08-08-boat.jpg"
+      "bundledPath": "media/optimized/08-08-boat-lg.webp",
+      "bundledSrcset": "media/optimized/08-08-boat-sm.webp 800w, media/optimized/08-08-boat-lg.webp 1000w"
     },
     {
       "section": "08",
@@ -3502,7 +3861,8 @@
       "type": "image",
       "originalName": "drip-black.jpg",
       "blobKey": "record-08-1788544640486-9",
-      "bundledPath": "media/08-09-drip-black.jpg"
+      "bundledPath": "media/optimized/08-09-drip-black-lg.webp",
+      "bundledSrcset": "media/optimized/08-09-drip-black-sm.webp 640w, media/optimized/08-09-drip-black-lg.webp 1184w"
     },
     {
       "section": "08",
@@ -3510,7 +3870,8 @@
       "type": "image",
       "originalName": "drip-balck-n-w.jpg",
       "blobKey": "record-08-1788544636242-8",
-      "bundledPath": "media/08-10-drip-balck-n-w.jpg"
+      "bundledPath": "media/optimized/08-10-drip-balck-n-w-lg.webp",
+      "bundledSrcset": "media/optimized/08-10-drip-balck-n-w-sm.webp 640w, media/optimized/08-10-drip-balck-n-w-lg.webp 1184w"
     },
     {
       "section": "09",
@@ -3518,7 +3879,8 @@
       "type": "image",
       "originalName": "drip-best.jpg",
       "blobKey": "record-09-1788545869725-0",
-      "bundledPath": "media/09-01-drip-best.jpg"
+      "bundledPath": "media/optimized/09-01-drip-best-lg.webp",
+      "bundledSrcset": "media/optimized/09-01-drip-best-sm.webp 533w, media/optimized/09-01-drip-best-lg.webp 888w"
     },
     {
       "section": "09",
@@ -3526,7 +3888,8 @@
       "type": "image",
       "originalName": "drip-vibe.jpg",
       "blobKey": "record-09-1788545880138-1",
-      "bundledPath": "media/09-02-drip-vibe.jpg"
+      "bundledPath": "media/optimized/09-02-drip-vibe-lg.webp",
+      "bundledSrcset": "media/optimized/09-02-drip-vibe-sm.webp 533w, media/optimized/09-02-drip-vibe-lg.webp 1184w"
     },
     {
       "section": "09",
@@ -3534,7 +3897,8 @@
       "type": "image",
       "originalName": "star-war-front.jpg",
       "blobKey": "record-09-1788545940719-4",
-      "bundledPath": "media/09-03-star-war-front.jpg"
+      "bundledPath": "media/optimized/09-03-star-war-front-lg.webp",
+      "bundledSrcset": "media/optimized/09-03-star-war-front-sm.webp 640w, media/optimized/09-03-star-war-front-lg.webp 1047w"
     },
     {
       "section": "09",
@@ -3542,7 +3906,8 @@
       "type": "image",
       "originalName": "drip-far.jpg",
       "blobKey": "record-09-1788545908878-2",
-      "bundledPath": "media/09-04-drip-far.jpg"
+      "bundledPath": "media/optimized/09-04-drip-far-lg.webp",
+      "bundledSrcset": "media/optimized/09-04-drip-far-sm.webp 534w, media/optimized/09-04-drip-far-lg.webp 851w"
     },
     {
       "section": "09",
@@ -3550,7 +3915,8 @@
       "type": "image",
       "originalName": "star-war-bag.jpg",
       "blobKey": "record-09-1788545950408-5",
-      "bundledPath": "media/09-05-star-war-bag.jpg"
+      "bundledPath": "media/optimized/09-05-star-war-bag-lg.webp",
+      "bundledSrcset": "media/optimized/09-05-star-war-bag-sm.webp 800w, media/optimized/09-05-star-war-bag-lg.webp 1125w"
     },
     {
       "section": "09",
@@ -3558,7 +3924,8 @@
       "type": "image",
       "originalName": "star-war-close.jpg",
       "blobKey": "record-09-1788545924437-3",
-      "bundledPath": "media/09-06-star-war-close.jpg"
+      "bundledPath": "media/optimized/09-06-star-war-close-lg.webp",
+      "bundledSrcset": "media/optimized/09-06-star-war-close-sm.webp 800w, media/optimized/09-06-star-war-close-lg.webp 1024w"
     },
     {
       "section": "10",
@@ -3566,7 +3933,8 @@
       "type": "image",
       "originalName": "dragonfly-silver.jpg",
       "blobKey": "record-10-1788547946464-1",
-      "bundledPath": "media/10-01-dragonfly-silver.jpg"
+      "bundledPath": "media/optimized/10-01-dragonfly-silver-lg.webp",
+      "bundledSrcset": "media/optimized/10-01-dragonfly-silver-sm.webp 582w, media/optimized/10-01-dragonfly-silver-lg.webp 1170w"
     },
     {
       "section": "10",
@@ -3574,7 +3942,8 @@
       "type": "image",
       "originalName": "dragonfly-silver-pattern (1).jpg",
       "blobKey": "record-10-1788547946465-2",
-      "bundledPath": "media/10-02-dragonfly-silver-pattern-1-.jpg"
+      "bundledPath": "media/optimized/10-02-dragonfly-silver-pattern-1-lg.webp",
+      "bundledSrcset": "media/optimized/10-02-dragonfly-silver-pattern-1-sm.webp 480w, media/optimized/10-02-dragonfly-silver-pattern-1-lg.webp 1153w"
     },
     {
       "section": "10",
@@ -3582,7 +3951,8 @@
       "type": "image",
       "originalName": "archi.jpg",
       "blobKey": "record-10-1788547946464-0",
-      "bundledPath": "media/10-03-archi.jpg"
+      "bundledPath": "media/optimized/10-03-archi-lg.webp",
+      "bundledSrcset": "media/optimized/10-03-archi-sm.webp 453w, media/optimized/10-03-archi-lg.webp 1087w"
     },
     {
       "section": "10",
@@ -3590,7 +3960,8 @@
       "type": "image",
       "originalName": "shaol.jpg",
       "blobKey": "record-10-1788547946465-3",
-      "bundledPath": "media/10-04-shaol.jpg"
+      "bundledPath": "media/optimized/10-04-shaol-lg.webp",
+      "bundledSrcset": "media/optimized/10-04-shaol-sm.webp 617w, media/optimized/10-04-shaol-lg.webp 617w"
     },
     {
       "section": "10",
@@ -3598,7 +3969,8 @@
       "type": "image",
       "originalName": "turning-pattern.jpg",
       "blobKey": "record-10-1788547946465-5",
-      "bundledPath": "media/10-05-turning-pattern.jpg"
+      "bundledPath": "media/optimized/10-05-turning-pattern-lg.webp",
+      "bundledSrcset": "media/optimized/10-05-turning-pattern-sm.webp 600w, media/optimized/10-05-turning-pattern-lg.webp 1080w"
     },
     {
       "section": "10",
@@ -3606,7 +3978,8 @@
       "type": "image",
       "originalName": "train.jpg",
       "blobKey": "record-10-1788547946465-4",
-      "bundledPath": "media/10-06-train.jpg"
+      "bundledPath": "media/optimized/10-06-train-lg.webp",
+      "bundledSrcset": "media/optimized/10-06-train-sm.webp 625w, media/optimized/10-06-train-lg.webp 894w"
     },
     {
       "section": "10",
@@ -3614,7 +3987,8 @@
       "type": "image",
       "originalName": "wall-light.png",
       "blobKey": "record-10-1788547946465-6",
-      "bundledPath": "media/10-07-wall-light.png"
+      "bundledPath": "media/optimized/10-07-wall-light-lg.webp",
+      "bundledSrcset": "media/optimized/10-07-wall-light-sm.webp 765w, media/optimized/10-07-wall-light-lg.webp 1100w"
     },
     {
       "section": "11",
@@ -3622,7 +3996,8 @@
       "type": "image",
       "originalName": "guitar-cd.jpg",
       "blobKey": "record-11-1788550118766-6",
-      "bundledPath": "media/11-01-guitar-cd.jpg"
+      "bundledPath": "media/optimized/11-01-guitar-cd-lg.webp",
+      "bundledSrcset": "media/optimized/11-01-guitar-cd-sm.webp 800w, media/optimized/11-01-guitar-cd-lg.webp 1499w"
     },
     {
       "section": "11",
@@ -3630,7 +4005,8 @@
       "type": "image",
       "originalName": "guitar-blakc-background.jpg",
       "blobKey": "record-11-1788550118766-5",
-      "bundledPath": "media/11-02-guitar-blakc-background.jpg"
+      "bundledPath": "media/optimized/11-02-guitar-blakc-background-lg.webp",
+      "bundledSrcset": "media/optimized/11-02-guitar-blakc-background-sm.webp 800w, media/optimized/11-02-guitar-blakc-background-lg.webp 1080w"
     },
     {
       "section": "11",
@@ -3638,7 +4014,8 @@
       "type": "image",
       "originalName": "escape.jpg",
       "blobKey": "record-11-1788550118765-2",
-      "bundledPath": "media/11-03-escape.jpg"
+      "bundledPath": "media/optimized/11-03-escape-lg.webp",
+      "bundledSrcset": "media/optimized/11-03-escape-sm.webp 800w, media/optimized/11-03-escape-lg.webp 1499w"
     },
     {
       "section": "11",
@@ -3646,7 +4023,8 @@
       "type": "image",
       "originalName": "film-eye (1).jpg",
       "blobKey": "record-11-1788550953796-8",
-      "bundledPath": "media/11-04-film-eye-1-.jpg"
+      "bundledPath": "media/optimized/11-04-film-eye-1-lg.webp",
+      "bundledSrcset": "media/optimized/11-04-film-eye-1-sm.webp 800w, media/optimized/11-04-film-eye-1-lg.webp 1499w"
     },
     {
       "section": "11",
@@ -3654,7 +4032,8 @@
       "type": "video-cover",
       "originalName": "Weixin Image_20260904204012_225_1.jpg",
       "blobKey": "video-11-02-poster",
-      "bundledPath": "media/11-video-05-cover-Weixin-Image_20260904204012_225_1.jpg"
+      "bundledPath": "media/optimized/11-video-05-cover-Weixin-Image_20260904204012_225_1-lg.webp",
+      "bundledSrcset": "media/optimized/11-video-05-cover-Weixin-Image_20260904204012_225_1-sm.webp 800w, media/optimized/11-video-05-cover-Weixin-Image_20260904204012_225_1-lg.webp 1170w"
     },
     {
       "section": "11",
@@ -3662,7 +4041,8 @@
       "type": "image",
       "originalName": "fountain.jpg",
       "blobKey": "record-11-1788550118766-4",
-      "bundledPath": "media/11-06-fountain.jpg"
+      "bundledPath": "media/optimized/11-06-fountain-lg.webp",
+      "bundledSrcset": "media/optimized/11-06-fountain-sm.webp 640w, media/optimized/11-06-fountain-lg.webp 1440w"
     },
     {
       "section": "11",
@@ -3670,7 +4050,8 @@
       "type": "video-cover",
       "originalName": "Weixin Image_20260904203811_223_1.jpg",
       "blobKey": "video-11-01-poster",
-      "bundledPath": "media/11-video-07-cover-Weixin-Image_20260904203811_223_1.jpg"
+      "bundledPath": "media/optimized/11-video-07-cover-Weixin-Image_20260904203811_223_1-lg.webp",
+      "bundledSrcset": "media/optimized/11-video-07-cover-Weixin-Image_20260904203811_223_1-sm.webp 800w, media/optimized/11-video-07-cover-Weixin-Image_20260904203811_223_1-lg.webp 1920w"
     },
     {
       "section": "11",
@@ -3678,7 +4059,8 @@
       "type": "image",
       "originalName": "skeleton.jpg",
       "blobKey": "record-11-1788550118766-7",
-      "bundledPath": "media/11-08-skeleton.jpg"
+      "bundledPath": "media/optimized/11-08-skeleton-lg.webp",
+      "bundledSrcset": "media/optimized/11-08-skeleton-sm.webp 800w, media/optimized/11-08-skeleton-lg.webp 1554w"
     },
     {
       "section": "12",
@@ -3686,7 +4068,8 @@
       "type": "image",
       "originalName": "YS_09_04_YS_Generator_2026_09_04_22_39_20.png",
       "blobKey": "record-12-1788558120205-7",
-      "bundledPath": "media/12-01-YS_09_04_YS_Generator_2026_09_04_22_39_20.png"
+      "bundledPath": "media/optimized/12-01-YS_09_04_YS_Generator_2026_09_04_22_39_20-lg.webp",
+      "bundledSrcset": "media/optimized/12-01-YS_09_04_YS_Generator_2026_09_04_22_39_20-sm.webp 600w, media/optimized/12-01-YS_09_04_YS_Generator_2026_09_04_22_39_20-lg.webp 1200w"
     },
     {
       "section": "12",
@@ -3694,7 +4077,8 @@
       "type": "image",
       "originalName": "cyber-jellyfish.jpg",
       "blobKey": "record-12-1788553583774-3",
-      "bundledPath": "media/12-02-cyber-jellyfish.jpg"
+      "bundledPath": "media/optimized/12-02-cyber-jellyfish-lg.webp",
+      "bundledSrcset": "media/optimized/12-02-cyber-jellyfish-sm.webp 547w, media/optimized/12-02-cyber-jellyfish-lg.webp 1080w"
     },
     {
       "section": "12",
@@ -3702,7 +4086,8 @@
       "type": "image",
       "originalName": "absurd-world.jpg",
       "blobKey": "record-12-1788553583773-0",
-      "bundledPath": "media/12-03-absurd-world.jpg"
+      "bundledPath": "media/optimized/12-03-absurd-world-lg.webp",
+      "bundledSrcset": "media/optimized/12-03-absurd-world-sm.webp 800w, media/optimized/12-03-absurd-world-lg.webp 1080w"
     },
     {
       "section": "12",
@@ -3710,7 +4095,8 @@
       "type": "image",
       "originalName": "YS_09_04_YS_Generator_2026_09_04_22_50_18.png",
       "blobKey": "record-12-1788558726486-6",
-      "bundledPath": "media/12-04-YS_09_04_YS_Generator_2026_09_04_22_50_18.png"
+      "bundledPath": "media/optimized/12-04-YS_09_04_YS_Generator_2026_09_04_22_50_18-lg.webp",
+      "bundledSrcset": "media/optimized/12-04-YS_09_04_YS_Generator_2026_09_04_22_50_18-sm.webp 600w, media/optimized/12-04-YS_09_04_YS_Generator_2026_09_04_22_50_18-lg.webp 1200w"
     },
     {
       "section": "12",
@@ -3718,7 +4104,8 @@
       "type": "image",
       "originalName": "kiss-16.9.jpg",
       "blobKey": "record-12-1788553583775-9",
-      "bundledPath": "media/12-05-kiss-16.9.jpg"
+      "bundledPath": "media/optimized/12-05-kiss-16.9-lg.webp",
+      "bundledSrcset": "media/optimized/12-05-kiss-16.9-sm.webp 800w, media/optimized/12-05-kiss-16.9-lg.webp 1920w"
     },
     {
       "section": "12",
@@ -3726,7 +4113,8 @@
       "type": "image",
       "originalName": "fish.jpg",
       "blobKey": "record-12-1788553583775-7",
-      "bundledPath": "media/12-06-fish.jpg"
+      "bundledPath": "media/optimized/12-06-fish-lg.webp",
+      "bundledSrcset": "media/optimized/12-06-fish-sm.webp 555w, media/optimized/12-06-fish-lg.webp 1079w"
     },
     {
       "section": "12",
@@ -3734,7 +4122,8 @@
       "type": "image",
       "originalName": "YS_09_04_YS_Generator_2026_09_04_22_40_12.png",
       "blobKey": "record-12-1788558802438-7",
-      "bundledPath": "media/12-07-YS_09_04_YS_Generator_2026_09_04_22_40_12.png"
+      "bundledPath": "media/optimized/12-07-YS_09_04_YS_Generator_2026_09_04_22_40_12-lg.webp",
+      "bundledSrcset": "media/optimized/12-07-YS_09_04_YS_Generator_2026_09_04_22_40_12-sm.webp 600w, media/optimized/12-07-YS_09_04_YS_Generator_2026_09_04_22_40_12-lg.webp 1200w"
     },
     {
       "section": "13",
@@ -3742,7 +4131,8 @@
       "type": "image",
       "originalName": "angel-eye.jpg",
       "blobKey": "record-13-1788555219856-1",
-      "bundledPath": "media/13-01-angel-eye.jpg"
+      "bundledPath": "media/optimized/13-01-angel-eye-lg.webp",
+      "bundledSrcset": "media/optimized/13-01-angel-eye-sm.webp 776w, media/optimized/13-01-angel-eye-lg.webp 1023w"
     },
     {
       "section": "13",
@@ -3750,7 +4140,8 @@
       "type": "image",
       "originalName": "balckpink.jpg",
       "blobKey": "record-13-1788555219857-2",
-      "bundledPath": "media/13-02-balckpink.jpg"
+      "bundledPath": "media/optimized/13-02-balckpink-lg.webp",
+      "bundledSrcset": "media/optimized/13-02-balckpink-sm.webp 800w, media/optimized/13-02-balckpink-lg.webp 1113w"
     },
     {
       "section": "13",
@@ -3758,7 +4149,8 @@
       "type": "image",
       "originalName": "cyber-printed.jpg",
       "blobKey": "record-13-1788555219857-4",
-      "bundledPath": "media/13-03-cyber-printed.jpg"
+      "bundledPath": "media/optimized/13-03-cyber-printed-lg.webp",
+      "bundledSrcset": "media/optimized/13-03-cyber-printed-sm.webp 600w, media/optimized/13-03-cyber-printed-lg.webp 1080w"
     },
     {
       "section": "13",
@@ -3766,7 +4158,8 @@
       "type": "image",
       "originalName": "vodca.jpg",
       "blobKey": "record-13-1788555219859-12",
-      "bundledPath": "media/13-04-vodca.jpg"
+      "bundledPath": "media/optimized/13-04-vodca-lg.webp",
+      "bundledSrcset": "media/optimized/13-04-vodca-sm.webp 640w, media/optimized/13-04-vodca-lg.webp 1440w"
     },
     {
       "section": "13",
@@ -3774,7 +4167,8 @@
       "type": "image",
       "originalName": "cyber-printed-2.jpg",
       "blobKey": "record-13-1788555219857-5",
-      "bundledPath": "media/13-05-cyber-printed-2.jpg"
+      "bundledPath": "media/optimized/13-05-cyber-printed-2-lg.webp",
+      "bundledSrcset": "media/optimized/13-05-cyber-printed-2-sm.webp 600w, media/optimized/13-05-cyber-printed-2-lg.webp 1080w"
     },
     {
       "section": "13",
@@ -3782,7 +4176,8 @@
       "type": "image",
       "originalName": "YS_09_04_YS_Generator_2026_09_04_22_40_57.png",
       "blobKey": "record-13-1788558873228-6",
-      "bundledPath": "media/13-06-YS_09_04_YS_Generator_2026_09_04_22_40_57.png"
+      "bundledPath": "media/optimized/13-06-YS_09_04_YS_Generator_2026_09_04_22_40_57-lg.webp",
+      "bundledSrcset": "media/optimized/13-06-YS_09_04_YS_Generator_2026_09_04_22_40_57-sm.webp 600w, media/optimized/13-06-YS_09_04_YS_Generator_2026_09_04_22_40_57-lg.webp 1200w"
     },
     {
       "section": "14",
@@ -3790,7 +4185,8 @@
       "type": "image",
       "originalName": "snake-balck.jpg",
       "blobKey": "record-14-1788559057702-0",
-      "bundledPath": "media/14-01-snake-balck.jpg"
+      "bundledPath": "media/optimized/14-01-snake-balck-lg.webp",
+      "bundledSrcset": "media/optimized/14-01-snake-balck-sm.webp 450w, media/optimized/14-01-snake-balck-lg.webp 1080w"
     },
     {
       "section": "14",
@@ -3798,7 +4194,8 @@
       "type": "image",
       "originalName": "YS_09_04_YS_Generator_2026_09_04_22_24_56.png",
       "blobKey": "record-14-1788559068503-1",
-      "bundledPath": "media/14-02-YS_09_04_YS_Generator_2026_09_04_22_24_56.png"
+      "bundledPath": "media/optimized/14-02-YS_09_04_YS_Generator_2026_09_04_22_24_56-lg.webp",
+      "bundledSrcset": "media/optimized/14-02-YS_09_04_YS_Generator_2026_09_04_22_24_56-sm.webp 600w, media/optimized/14-02-YS_09_04_YS_Generator_2026_09_04_22_24_56-lg.webp 1200w"
     },
     {
       "section": "14",
@@ -3806,7 +4203,8 @@
       "type": "image",
       "originalName": "333.jpg",
       "blobKey": "record-14-1788560800161-10",
-      "bundledPath": "media/14-03-333.jpg"
+      "bundledPath": "media/optimized/14-03-333-lg.webp",
+      "bundledSrcset": "media/optimized/14-03-333-sm.webp 800w, media/optimized/14-03-333-lg.webp 1200w"
     },
     {
       "section": "14",
@@ -3814,7 +4212,8 @@
       "type": "image",
       "originalName": "YS_09_04_YS_Generator_2026_09_04_22_35_17.png",
       "blobKey": "record-14-1788559087283-2",
-      "bundledPath": "media/14-04-YS_09_04_YS_Generator_2026_09_04_22_35_17.png"
+      "bundledPath": "media/optimized/14-04-YS_09_04_YS_Generator_2026_09_04_22_35_17-lg.webp",
+      "bundledSrcset": "media/optimized/14-04-YS_09_04_YS_Generator_2026_09_04_22_35_17-sm.webp 600w, media/optimized/14-04-YS_09_04_YS_Generator_2026_09_04_22_35_17-lg.webp 1200w"
     },
     {
       "section": "14",
@@ -3822,7 +4221,8 @@
       "type": "image",
       "originalName": "YS_09_04_YS_Generator_2026_09_04_22_33_31.png",
       "blobKey": "record-14-1788559199999-5",
-      "bundledPath": "media/14-05-YS_09_04_YS_Generator_2026_09_04_22_33_31.png"
+      "bundledPath": "media/optimized/14-05-YS_09_04_YS_Generator_2026_09_04_22_33_31-lg.webp",
+      "bundledSrcset": "media/optimized/14-05-YS_09_04_YS_Generator_2026_09_04_22_33_31-sm.webp 600w, media/optimized/14-05-YS_09_04_YS_Generator_2026_09_04_22_33_31-lg.webp 1200w"
     },
     {
       "section": "14",
@@ -3830,7 +4230,8 @@
       "type": "image",
       "originalName": "122.jpg",
       "blobKey": "record-14-1788561142351-9",
-      "bundledPath": "media/14-06-122.jpg"
+      "bundledPath": "media/optimized/14-06-122-lg.webp",
+      "bundledSrcset": "media/optimized/14-06-122-sm.webp 600w, media/optimized/14-06-122-lg.webp 1200w"
     },
     {
       "section": "14",
@@ -3838,7 +4239,8 @@
       "type": "image",
       "originalName": "YS_09_04_YS_Generator_2026_09_04_22_36_53.png",
       "blobKey": "record-14-1788559294934-10",
-      "bundledPath": "media/14-07-YS_09_04_YS_Generator_2026_09_04_22_36_53.png"
+      "bundledPath": "media/optimized/14-07-YS_09_04_YS_Generator_2026_09_04_22_36_53-lg.webp",
+      "bundledSrcset": "media/optimized/14-07-YS_09_04_YS_Generator_2026_09_04_22_36_53-sm.webp 600w, media/optimized/14-07-YS_09_04_YS_Generator_2026_09_04_22_36_53-lg.webp 1200w"
     },
     {
       "section": "14",
@@ -3846,7 +4248,8 @@
       "type": "image",
       "originalName": "star-space-dublicated.jpg",
       "blobKey": "record-14-1788559237577-7",
-      "bundledPath": "media/14-08-star-space-dublicated.jpg"
+      "bundledPath": "media/optimized/14-08-star-space-dublicated-lg.webp",
+      "bundledSrcset": "media/optimized/14-08-star-space-dublicated-sm.webp 792w, media/optimized/14-08-star-space-dublicated-lg.webp 1234w"
     },
     {
       "section": "14",
@@ -3854,7 +4257,15 @@
       "type": "image",
       "originalName": "star-space-round.jpg",
       "blobKey": "record-14-1788559244671-8",
-      "bundledPath": "media/14-09-star-space-round.jpg"
+      "bundledPath": "media/optimized/14-09-star-space-round-lg.webp",
+      "bundledSrcset": "media/optimized/14-09-star-space-round-sm.webp 766w, media/optimized/14-09-star-space-round-lg.webp 1080w"
     }
-  ]
+  ],
+  "optimizedMedia": {
+    "format": "webp",
+    "smallMaxDimension": 800,
+    "largeMaxDimension": 1920,
+    "responsive": true
+  },
+  "performanceVersion": "2026-10-23-responsive-media-v1"
 }

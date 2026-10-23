@@ -149,7 +149,7 @@ main { padding: 0 clamp(16px, 3vw, 42px) 72px; }
 }
 .archive-masthead + .archive-file .project-intro { padding-top: var(--masthead-gap); }
 
-.archive-file { position: relative; scroll-margin-top: 68px; }
+.archive-file { position: relative; scroll-margin-top: 68px; content-visibility: auto; contain-intrinsic-size: auto 1100px; }
 #additional-files { margin-top: clamp(60px, 8vw, 110px); }
 .archive-file + .archive-file { margin-top: clamp(60px, 8vw, 110px); }
 .archive-file-template .project-intro { padding-top: 0; }
@@ -491,6 +491,34 @@ body[data-preview-mode="split"] > main { width: calc(100% - 430px); }
 .phone-canvas .spring-response em { font-size: 5.5px; }
 
 @media (max-width: 760px) {
+  /* Mobile keeps the layered material language without repeatedly compositing
+     large blurred surfaces, which is the main source of GPU/memory spikes. */
+  .published-view .system-header,
+  .published-view .masthead-card,
+  .published-view .masthead-extension-inner,
+  .published-view .back-plate,
+  .published-view .document-sheet,
+  .published-view .folder-tab,
+  .published-view .sheet-header,
+  .published-view .sheet-footer,
+  .published-view .visual-item figcaption,
+  .published-view .data-branch,
+  .published-view .video-play::before,
+  .published-view .video-source-link,
+  .published-view .video-poster-return,
+  .published-view .continuation {
+    backdrop-filter: none;
+    -webkit-backdrop-filter: none;
+  }
+  .published-view .archive-masthead,
+  .published-view .document-stack { filter: none; }
+  .published-view .document-sheet {
+    box-shadow: 0 13px 30px rgba(35,58,62,.12), inset 0 1px rgba(255,255,255,.78);
+  }
+  .published-view .back-plate { box-shadow: inset 0 1px rgba(255,255,255,.68); }
+  .published-view .folder-tab {
+    box-shadow: 4px 8px 16px rgba(49,78,83,.13), inset 0 1px rgba(255,255,255,.72);
+  }
   .system-header { grid-template-columns: 1fr auto auto; }
   .system-header > span:nth-child(2), #clock { display: none; }
   .device-preview button:first-child, .device-preview button:last-child { display: none; }
@@ -580,7 +608,7 @@ body[data-preview-mode="split"] > main { width: calc(100% - 430px); }
 
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto; }
-  .document-sheet, .folder-tab, .archive-masthead, .masthead-extension { transition: none; }
+  *, *::before, *::after { scroll-behavior: auto !important; animation-duration: .01ms !important; animation-iteration-count: 1 !important; transition-duration: .01ms !important; }
 }
 
 /* Public portfolio visitors see the archive, not the local authoring controls. */
